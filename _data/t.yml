@@ -1,0 +1,101 @@
+fil:
+  site_description: >
+    <i lang="en">SNAP Nutrient Solution for Hydroponics</i>. Ang kahulugan ng SNAP
+    ay <i lang="en">Simple Nutrient Addition Program. Ito ay isang mababang halaga
+    at <i lang="en">low-maintenance na <i lang="en">hydroponics system</i>. Ito
+    ay dinesenyo para sa pambahay at maliit na produksiyon ng gulay. 
+  home:
+    name: Home
+    url: /
+  english:
+    name: Ingles
+    url: /en
+  filipino:
+    name: Filipino
+    url: /
+  guides:
+    name: Mga Karagdagang Gabay
+    url: /guides
+  menu_items:
+    authorized-resellers: 
+      name: '<i lang="en">Authorized Resellers</i>'
+      url: /authorized-resellers
+    coco-peat:
+      name: '<i lang="en">Coco Peat</i>'
+      url: /coco-peat
+    faq:
+      name: Mga Madalas na Tanong
+      url: /faq
+    grow-box:
+      name: '<i lang="en">Grow Box</i>'
+      url: /grow-box
+    replenishment:
+      name: '<i lang="en">Replenishment</i>'
+      url: /replenishment
+    seedling-production:
+      name: '<i lang="en">Produksiyon ng mga Binhi</i>'
+      url: /seedling-production
+    styrobox:
+      name: '<i lang="en">Styrobox</i>'
+      url: /styrobox
+    styrofoam-puncher:
+      name: Pambutas ng Styrofoam
+      url: /styrofoam-puncher
+    training-seminar:
+      name: '<i lang="en">Training Seminar</i>'
+      url: /training-seminar
+    working-solution:
+      name: '<i lang="en">Working Solution</i>'
+      url: /working-solution
+
+
+
+
+en:
+  site_description: >
+    SNAP Nutrient Solution for Hydroponics. SNAP stands for Simple Nutrient
+    Addition Program. It is a low-cost, low-maintenance hydroponics system that is
+    designed for household and small-scale vegetable production.
+  home:
+    name: Home
+    url: /en
+  english:
+    name: English
+    url: /en
+  filipino:
+    name: Filipino
+    url: /
+  guides:
+    name: Additional Guides
+    url: /en/guides
+  menu_items:
+    authorized-resellers: 
+      name: Authorized Resellers
+      url: /authorized-resellers
+    coco-peat:
+      name: Coco Peat
+      url: /coco-peat
+    faq:
+      name: Frequently Asked Quesions
+      url: /faq
+    grow-box:
+      name: Grow Box
+      url: /grow-box
+    replenishment:
+      name: Replenishment
+      url: /replenishment
+    seedling-production:
+      name: Seedling Production
+      url: /seedling-production
+    styrobox:
+      name: Styrobox
+      url: /styrobox
+    styrofoam-puncher:
+      name: Styrofoam Puncher
+      url: /styrofoam-puncher
+    training-seminar:
+      name: Training Seminar
+      url: /training-seminar
+    working-solution:
+      name: Working Solution
+      url: /working-solution

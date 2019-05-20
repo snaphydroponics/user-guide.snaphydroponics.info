@@ -1,0 +1,25 @@
+title: SNAP Nutrient Solution for Hydroponics
+email: snaphydroponics@gmail.com
+description: >
+  SNAP Nutrient Solution for Hydroponics. SNAP stands for Simple Nutrient
+  Addition Program. It is a low-cost, low-maintenance hydroponics system that is
+  designed for household and small-scale vegetable production.
+url: https://user-guide.snaphydroponics.info
+twitter_username: snaphydroponics
+facebook_username: simple.nutrient.addition.program
+instagram_username: snaphydroponics
+
+author: Marco Enrico Alviar
+
+layout: page
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+collections:
+  en:
+    output: true
