@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: fil
-title: Gabay sa Pagamit ng SNAP
+title: Gabay sa Pagamit ng SNAP Hydroponics
 description: >
   Komprehensibong gabay kung paano magpalaki ng halaman gamit ang SNAP
   Hydroponics.
@@ -81,7 +81,7 @@ mga sanhi ng sakit.
 
 {% include figure.html figure="coco-peat" %}
 
-[Gabay sa Coco Peat]({{ site.baseurl }}/coco-peat){:class="button is-medium is-primary
+[Gabay sa <i lang="en">Coco Peat</i>]({{ site.baseurl }}/coco-peat){:class="button is-medium is-primary
 is-fullwidth"}
 
 ### Mga Buto
@@ -227,7 +227,7 @@ at hindi sila makakapangitlog sa loob ng <i lang="en">grow box</i>.
 {% include figure.html figure="lined-grow-box-lower-half" %}</li>
 </ol>
 
-[Gabay sa Grow Boxes]({{site.baseurl}}/grow-box){:class="button
+[Gabay sa <i lang="en">Grow Boxes</i>]({{site.baseurl}}/grow-box){:class="button
     is-primary is-medium is-fullwidth"}
 </section>
   
@@ -298,7 +298,7 @@ ang mga inihandang <i lang="en">seedling plugs</i> ng mga ilang araw.
 </li>
 
 </ol>
-[Gabay sa Working Solution]({{site.baseurl}}/working-solution){:class="button
+[Gabay sa <i lang="en">Working Solution</i>]({{site.baseurl}}/working-solution){:class="button
     is-primary is-medium is-fullwidth"}
 
 </section>
@@ -316,7 +316,7 @@ ng <i lang="en">SNAP Nutrient Solution for Hydroponics</i>. Ang mga ito ay
 sinaliksik, ginagawa, at ipinagbibili sa IPB-UPLB. Ang mga ito rin ay ipinagbibili
 ng mga <i lang="en">SNAP Authorized Resellers</i>
 
-[Gabay sa Authorized Resellers]({{ site.baseurl }}/authorized-resellers){:class="button
+[Gabay sa <i lang="en">Authorized Resellers</i>]({{ site.baseurl }}/authorized-resellers){:class="button
     is-primary is-medium is-fullwidth"}
 
 ### <i lang="en">Seedling Plugs</i>
@@ -419,7 +419,7 @@ dagdagan ng malinis na tubig.
 * Ang mga pananim na kailangang palakihin ng lampas sa isang buwan ay dapat
 dagdagan ng bagong <i lang="en">working solution</i>
 
-[Gabay sa Replenishment]({{ site.baseurl }}/replenishment){:class="button
+[Gabay sa <i lang="en">Replenishment</i>]({{ site.baseurl }}/replenishment){:class="button
     is-medium is-primary is-fullwidth" }
 </section>
 

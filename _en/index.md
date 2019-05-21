@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: SNAP Users’ Guide
+title: SNAP Hydroponics Users’ Guide
 description: >
   Comprehensive guide on how to grow plants using SNAP Hydroponics.
 permalink: /en

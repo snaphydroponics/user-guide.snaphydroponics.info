@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: fil
-title: Gabay Kung Paano Gawin ang SNAP Hydroponics Working Solution
+title: Gabay Kung Paano Gawin ang SNAP Working Solution
 description: >
   Alamin ang tamang paraan ng paggawa ng SNAP Hydroponics working solution sa
   gabay na ito.

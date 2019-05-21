@@ -11,8 +11,18 @@
         content="{%- if page.description -%}
                    {{ page.description | strip_html | strip_newlines | truncate: 160 }}
                  {%- else -%}
-                   {{ site.t[page.lang].site_description | strip_html | strip_newlines | turncate: 160 }}
+                   {{ site.t[page.lang].site_description | strip_html | strip_newlines | truncate: 160 }}
                  {%- endif -%}">
+  <meta name="fb:app_id" content="378460276099477">
+  <meta name="og:title" content="{{ page.title }}">
+  <meta name="og:url" content="{{ page.permalink | site.baseurl }}">
+  <meta name="og:description" content="{{ page.description | strip_html | strip_newlines }}">
+  <meta name="og:type" content="website">
+  <meta name="og:image:url" content="{{ '/assets/images/snap-hydroponics-user-manual.png' | prepend: site.baseurl }}">
+  <meta name="og:image:type" content="image/png">
+  <meta name="og:image:width" content="2048">
+  <meta name="og:image:height" content="2048">
+
 
   <link rel="shortcut icon" type="image/png" href="favicon.png">
   <link href="{{ '/assets/fonts/ubuntu/ubuntu-v11-latin-ext_latin-regular.woff' | prepend:site.baseurl }}"
@@ -27,5 +37,4 @@
         title="{{ site.title }}"
         href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
 
-  <script src="{{ '/assets/js/dropdown.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 </head>

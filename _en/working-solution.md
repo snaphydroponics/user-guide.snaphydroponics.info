@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: Guide on How to Prepare the SNAP Hydroponics Working Solution
+title: Guide on How to Prepare the SNAP Working Solution
 description: >
   How to properly prepare a SNAP Hydroponics working nutrient solution.
 permalink: /en/working-solution

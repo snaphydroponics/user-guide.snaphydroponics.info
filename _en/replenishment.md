@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: Guide to Replenishing the Working Solution
+title: Guide to Replenishing the SNAP Working Solution
 description: >
   How to properly replenish the working solution of SNAP grow boxes.
 permalink: /en/replenishment

@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: fil
-title: Gabay sa Replenishment ng Working Solution.
+title: Gabay sa Replenishment ng SNAP Working Solution.
 description: >
   Alamin ang mga tamang hakbang sa pag-replenish ng working solution ng SNAP grow boxes.
 permalink: /replenishment

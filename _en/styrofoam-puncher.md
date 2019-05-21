@@ -10,10 +10,7 @@ permalink: /en/styrofoam-puncher
 
 {% include hero.html %}
 
-{% include figure.html width="1024" height="457"
-    filename="styrofoam-punchers.jpg"
-    alt="A couple of completed DIY styrofoam punchers."
-    caption="A couple of styrofoam punchers made of tin can and bamboo sticks." %}
+{% include figure.html figure="styrofoam-punchers" %}
 
 The SNAP Hydroponics system utilizes a grow box to contain the nutrient
 solution and hold the seedling plugs in place. One of the steps in making

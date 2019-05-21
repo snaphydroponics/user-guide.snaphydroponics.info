@@ -4,39 +4,18 @@
       <img src="{{ site.baseurl }}/assets/images/snap-logo.png" alt="Logo: SNAP Nutrient Solution for Hydroponics" >
     </a>
 
-    <a role="button"
-       class="navbar-burger"
-       data-target="navMenu"
-       aria-label="menu"
-       aria-expanded="false">
+
+    <a class="navbar-item {% if page.lang == "fil" %}{{ "has-text-weight-bold" }}{% endif %}"
+        href="/">{{ site.data.t[page.lang].filipino.name }}</a>
+    <a class="navbar-item {% if page.lang == "en" %}{{ "has-text-weight-bold" }}{% endif %}"
+    href="/en">{{ site.data.t[page.lang].english.name }}</a>
+
+    <a href="#menu" role="button"
+       class="navbar-burger navbar-item"
+       aria-label="menu">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
     </a>
-  </div>
-
-  <div class="navbar-menu" id="navMenu">
-    <div class="navbar-start">
-      <div class="navbar-item">
-          <a href="/">{{ site.data.t[page.lang].filipino.name }}</a>
-      </div>
-      <div class="navbar-item">
-          <a href="/en">{{ site.data.t[page.lang].english.name }}</a>
-      </div>
-    </div>
-
-    <div class="navbar-end">
-      <div class="navbar-item has-dropdown is-hoverable">
-        <div class="navbar-link">{{ site.data.t[page.lang].guides.name }}</span>
-
-        <div class="navbar-dropdown">
-          {% for menu_item in site.data.t[page.lang].menu_items %}
-          <div class="navbar-item">
-              <a href="{{ menu_item[1].url }}">{{ menu_item[1].name }}</a>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
   </div>
 </nav>
