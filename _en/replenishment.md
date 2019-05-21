@@ -7,8 +7,6 @@ description: >
 permalink: /en/replenishment
 ---
 
-{% include hero.html %}
-
 Replenishment of the SNAP working solution inside the grow box is an important
 part of maintaining the SNAP Hydroponics system. The amount of working solution
 inside the grow box will decrease overtime as the solution gets depleted through

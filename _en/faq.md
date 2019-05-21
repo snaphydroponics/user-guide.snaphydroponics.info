@@ -7,8 +7,6 @@ description: >
 permalink: /en/faq
 ---
 
-{% include hero.html %}
-
 ## What is hydroponics?
 
 Hydroponics is a method of growing plants in mineral nutrient solutions in water

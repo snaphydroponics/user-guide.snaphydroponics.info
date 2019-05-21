@@ -8,8 +8,6 @@ description: >
 permalink: /faq
 ---
 
-{% include hero.html %}
-
 ## Ano ang <i lang="en">hydroponics</i>?
 
 Ang <i lang="en">hydroponics</i> ay isang pamamaraan ng pagpapalaki ng halaman

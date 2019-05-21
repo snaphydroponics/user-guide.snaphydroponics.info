@@ -8,8 +8,6 @@ description: >
 permalink: /working-solution
 ---
 
-{% include hero.html %}
-
 {% include figure.html figure="working-solution" %}
 
 Ang pinaglalong tubig at <i lang="en">SNAP Hydroponics Nutrient Solution for

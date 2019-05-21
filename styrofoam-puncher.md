@@ -8,8 +8,6 @@ description: >
 permalink: /styrofoam-puncher
 ---
 
-{% include hero.html %}
-
 {% include figure.html figure="styrofoam-punchers" %}
 
 Ang sistema ng SNAP <i lang="en">Hydroponics</i> ay gumagamit ng

@@ -8,8 +8,6 @@ description: >
 permalink: /
 ---
 
-{% include hero.html %}
-
 <section class="content" id="mahalagang-paalala" markdown="1">
 
 # Mahalagang Paalala

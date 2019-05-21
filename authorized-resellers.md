@@ -8,8 +8,6 @@ description: >
 permalink: /authorized-resellers
 ---
 
-{% include hero.html %}
-
 Ang SNAP Nutrient Solution for Hydroponics ay dini-<i lang="en">distribute</i>
 ng mga <i lang="en">SNAP Hydroponics Authorized Resellers</i>. Ang mga
 <i lang="en">authorized resellers</i> ay nakilahok at nakumpleto ang 

@@ -7,8 +7,6 @@ description: >
 permalink: /en/coco-peat
 ---
 
-{% include hero.html %}
-
 
 Coco peat also known as coco coir dust, is a natural spongy material extracted
 from coconut husks. It is a by-product of the coconut industry. Among its many

@@ -9,8 +9,6 @@ description: >
 permalink: /en/styrobox
 ---
 
-{% include hero.html %}
-
 Styrofoam boxes that are used to make grow boxes comes in different sizes. The
 size recommended for use in SNAP Hydroponics measures 20 ✕ 16 ✕ 6 inches. Styrofoam
 boxes of these sizes are used to transport imported grapes from the United States

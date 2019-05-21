@@ -9,8 +9,6 @@ description: >
 permalink: /styrobox
 ---
 
-{% include hero.html %}
-
 Ang mga kahon na yari sa <i lang="en">styrofoam</i> na ginagamit sa paggawa ng
 mga <i lang="en">grow boxes</i> ay iba't-iba ang laki. Ang nirerekomendang sukat
 para sa SNAP Hydroponics ay 20" ✕ 16" ✕ 6". Ang mga <i lang="en">styrobox</i> na

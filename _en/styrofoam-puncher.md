@@ -8,8 +8,6 @@ description: >
 permalink: /en/styrofoam-puncher
 ---
 
-{% include hero.html %}
-
 {% include figure.html figure="styrofoam-punchers" %}
 
 The SNAP Hydroponics system utilizes a grow box to contain the nutrient

@@ -7,8 +7,6 @@ description: >
 permalink: /replenishment
 ---
 
-{% include hero.html %}
-
 Ang pag-<i lang="en">replenish</i> ng SNAP working solution sa loob ng <i lang="en">grow box</i>
 ay mahalagang bahagi ng pagpapanatili ng sistemang SNAP <i lang="en">hydroponics</i>.
 Ang dami ng <i lang="en">working solution</i> sa loob ng <i lang="en">grow box</i>

@@ -8,8 +8,6 @@ description: >
 permalink: /en/seedling-production
 ---
 
-{% include hero.html %}
-
 
 {% include figure.html width="1024" height="683"
     filename="lettuce-seedlings.jpg"

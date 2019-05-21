@@ -7,7 +7,6 @@ description: >
 permalink: /en
 ---
 
-{% include hero.html %}
 
 <section class="content" id="important-reminder" markdown="1">
 

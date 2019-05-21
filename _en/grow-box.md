@@ -8,8 +8,6 @@ description: >
 permalink: /en/grow-box
 ---
 
-{% include hero.html %}
-
 {% include figure.html figure="grow-box" %}
 
 Grow boxes or growing boxes are an essential part of the SNAP Hydroponics

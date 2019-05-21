@@ -7,8 +7,6 @@ description: >
 permalink: /grow-box
 ---
 
-{% include hero.html %}
-
 {% include figure.html figure="grow-box" %}
 
 Ang mga <i lang="en">grow boxes</i> o <i lang="en">growing boxes</i> mahalagang

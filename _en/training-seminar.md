@@ -7,8 +7,6 @@ description: >
 permalink: /en/training-seminar
 ---
 
-{% include hero.html %}
-
 The Institute of Plant Breeding (IPB) offers a short training course titled
 “Training on Hydroponics Vegetable Production with Emphasis on SNAP Hydroponics.”
 Participants who have completed this short training course are awarded a

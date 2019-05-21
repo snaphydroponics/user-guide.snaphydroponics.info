@@ -8,8 +8,6 @@ description: >
 permalink: /seedling-production
 ---
 
-{% include hero.html %}
-
 
 {% include figure.html figure="lettuce-seedlings" %}
 

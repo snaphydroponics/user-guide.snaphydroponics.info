@@ -8,8 +8,6 @@ description: >
 permalink: /en/authorized-resellers
 ---
 
-{% include hero.html %}
-
 SNAP Nutrient Solution for Hydroponics is distributed by SNAP Hydroponics
 Authorized Resellers. Authorized resellers have participated and completed
 the [short training course on SNAP Hydroponics]({{ site.baseurl }}/en/training-seminar).

@@ -7,8 +7,6 @@ description: >
 permalink: /coco-peat
 ---
 
-{% include hero.html %}
-
 Ang <i lang="en">coco peat</i> na kilalarin sa tawag na <i lang="en">coco coir dust</i>,
 ay isang natural na mala-isponghang materyal na nagmula sa mga bunot ng niyog.
 Ito ay isang <i lang="en">by-product</i> ng industriya ng niyog. Isa mga marami

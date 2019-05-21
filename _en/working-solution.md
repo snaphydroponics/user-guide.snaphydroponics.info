@@ -7,8 +7,6 @@ description: >
 permalink: /en/working-solution
 ---
 
-{% include hero.html %}
-
 {% include figure.html figure="working-solution" %}
 
 The mixture of water and SNAP Hydroponics Nutrient Solution for Hydroponics A
