@@ -13,15 +13,15 @@
                  {%- else -%}
                    {{ site.t[page.lang].site_description | strip_html | strip_newlines | truncate: 160 }}
                  {%- endif -%}">
-  <meta name="fb:app_id" content="378460276099477">
-  <meta name="og:title" content="{{ page.title }}">
-  <meta name="og:url" content="{{ page.permalink | site.baseurl }}">
-  <meta name="og:description" content="{{ page.description | strip_html | strip_newlines }}">
-  <meta name="og:type" content="website">
-  <meta name="og:image:url" content="{{ '/assets/images/snap-hydroponics-user-manual.png' | prepend: site.baseurl }}">
-  <meta name="og:image:type" content="image/png">
-  <meta name="og:image:width" content="2048">
-  <meta name="og:image:height" content="2048">
+  <meta property="fb:app_id" content="378460276099477">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:url" content="{{ page.permalink | site.baseurl }}">
+  <meta property="og:description" content="{{ page.description | strip_html | strip_newlines }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image:url" content="{{ '/assets/images/snap-hydroponics-user-manual.png' | prepend: site.baseurl }}">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="2048">
+  <meta property="og:image:height" content="2048">
 
 
   <link rel="shortcut icon" type="image/png" href="favicon.png">
