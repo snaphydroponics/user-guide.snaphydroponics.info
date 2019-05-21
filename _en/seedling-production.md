@@ -9,10 +9,7 @@ permalink: /en/seedling-production
 ---
 
 
-{% include figure.html width="1024" height="683"
-    filename="lettuce-seedlings.jpg"
-    alt="Young lettuce seedlings with cotyledons and first true leaves visible."
-    caption="Healthy lettuce seedings." %}
+{% include figure.html figure="lettuce-seedlings" %}
 
 One of the most important factors that determines good harvest under favorable
 conditions are the seeds and the seedlings raised from them.
