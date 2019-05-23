@@ -42,7 +42,7 @@ sa pagsasanay at mga miryenda.
 Upang magpalista piliin ang “Hydroponics Vegetable Production with Emphasis on
 SNAP Hydroponics” sa <i lang="en">online registration form</i>.
 
-<a class="button is-primary is-small"
+<a class="btn btn-primary btn-block"
 href="https://docs.google.com/forms/d/e/1FAIpQLSdHg6eiugsj3zhh2XYykY_NywBSVKCY5McfVb6__IXqHxncGQ/viewform">
 Magpalista Para sa <i lang="en">IPB Short Training Course</i></a>
 
