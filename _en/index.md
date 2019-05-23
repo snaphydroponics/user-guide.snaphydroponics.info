@@ -8,8 +8,6 @@ permalink: /en
 ---
 
 
-<section class="content" id="important-reminder" markdown="1">
-
 # Important Reminder
 
 SNAP is a low-cost hydroponics system that is easy to setup and easy to maintain.
@@ -36,16 +34,14 @@ Examples:
 awning (acceptable)
 
 {% include figure.html figure="suitable-snap-location" %}
-</section>
 
 For total beginners, it is strongly recommended to start with lettuce. Loose
 leaf lettuce is recommended during the summer months. Beginners may also start
 with other leafy vegetables like <i lang="fil">pechay</i>,
 <i lang="fil">mustasa</i> or <i lang="fil">kang-kong</i>.
 
-<section class="content" id="establish-seedlings" markdown="1">
 
-# Establish the Seedlings
+# Establish Seedlings
 
 ## Required Materials
 
@@ -74,8 +70,7 @@ it could be contaminated with pests and pathogens.
 
 {% include figure.html figure="coco-peat" %}
 
-[Coco Peat Guide]({{site.baseurl}}/en/coco-peat){:class="button is-medium is-primary
-is-fullwidth"}
+[Coco Peat Guide]({{site.baseurl}}/en/coco-peat){:class="btn btn-primary btn-block"}
 
 ### Seeds
 
@@ -111,12 +106,9 @@ individual [seedling plugs](#prepare-seedling-plugs).
 {% include figure.html figure="germinated-seeds" %}</li>
 </ol>
 
-[Seedling Production Guide]({{site.baseurl}}/en/seedling-production){:class="button is-medium is-primary
-is-fullwidth"}
+[Seedling Production Guide]({{site.baseurl}}/en/seedling-production){:class="btn btn-primary btn-block"}
 
-</section>
 
-<section class="content" id="prepare-grow-boxes" markdown="1">
 # Prepare Grow Boxes
 
 ## Required Materials
@@ -131,8 +123,7 @@ grow up to eight (8) leafy vegetables and up to five (5) fruiting vegetables.
 Styroboxes of this size are used to transport US imported grapes and are
 typically common during the months of September to January.
 
-[Styrofoam Boxes Guide]({{site.baseurl}}/en/styrobox){:class="button
-    is-primary is-medium is-fullwidth" }
+[Styrofoam Boxes Guide]({{site.baseurl}}/en/styrobox){:class="btn btn-primary btn-block" }
 
 ### Lining Material
 
@@ -150,8 +141,7 @@ A styroform puncher is required to make holes on the upper half of the grow box
 for the [seedling plugs](#prepare-seedling-plugs). A tin can of the appropriate diameter
 for the seedling plug can be made into such a tool.
 
-[Styroam Puncher Guide]({{site.baseurl}}/en/styrofoam-puncher){:class="button
-    is-primary is-medium is-fullwidth" }
+[Styroam Puncher Guide]({{site.baseurl}}/en/styrofoam-puncher){:class="btn btn-primary btn-block" }
 
 ### Packaging Tape
 
@@ -202,11 +192,8 @@ them from breeding in the grow box.</li>
 {% include figure.html figure="lined-grow-box-lower-half" %}</li>
 </ol>
 
-[Grow Boxes Guide]({{site.baseurl}}/en/grow-box){:class="button
-    is-primary is-medium is-fullwidth"}
-</section>
+[Grow Boxes Guide]({{site.baseurl}}/en/grow-box){:class="btn btn-primary btn-block"}
   
-<section class="content" id="prepare-seedling-plugs" markdown="1">
 
 # Prepare Seedling Plugs
 
@@ -265,12 +252,9 @@ seedling plug sit in a shallow pool of diluted working solution for a few days.
 {% include figure.html figure="hardening-off" %}</li>
 </ol>
 
-[Working Solution Guide]({{site.baseurl}}/en/working-solution){:class="button
-    is-primary is-medium is-fullwidth"}
+[Working Solution Guide]({{site.baseurl}}/en/working-solution){:class="btn btn-primary btn-block"}
 
-</section>
 
-<section class="content" id="assembly-maintenance" markdown="1">
 
 # Setting Up the SNAP Hydroponics System
 
@@ -282,8 +266,7 @@ The SNAP Hydroponics system requires the use of SNAP Nutrient Solution for Hydro
 They are developed, manufactured and sold in IPB-UPLB. They are also distributed
 by SNAP Authorized Resellers.
 
-[Authorized Resellers Guide]({{ site.baseurl }}/en/authorized-resellers){:class="button
-    is-primary is-medium is-fullwidth"}
+[Authorized Resellers Guide]({{ site.baseurl }}/en/authorized-resellers){:class="btn btn-primary btn-block"}
 
 ### Seedling Plugs
 
@@ -312,6 +295,7 @@ longest sunlight possible.
 ## Procedure
 
 <ol>
+
 <li>Arrange the grow boxes in the shelter. Make sure that each one is leveled
 and each one is receiving sufficient sunlight to support the plants’ growth.</li>
 
@@ -320,28 +304,26 @@ and each one is receiving sufficient sunlight to support the plants’ growth.</
 {% include figure.html figure="adding-water" %}</li>
 
 
-<li markdown="1">Add 25 mL of SNAP A. Mix well. Add 25 ml of SNAP B. Mix well.
-Either SNAP A or SNAP B can be added to the water first but remember to **stir
-the mixture thoroughly** in between adding the SNAP A/B nutrient solution. The
+<li>Add 25 mL of SNAP A. Mix well. Add 25 ml of SNAP B. Mix well.
+Either SNAP A or SNAP B can be added to the water first but remember to <strong>stir
+the mixture thoroughly</strong> in between adding the SNAP A/B nutrient solution. The
 resulting mixture is the working solution.
 
 {% include figure.html figure="working-solution" %}</li>
 
 
 <li>Join the upper and lower halves of the grow box together and make sure they
-are properly locked into place. </li>
+are properly locked into place.</li>
 
-<li markdown="1">Insert a seedling plug to each holes on the upper half of the grow box. Make
+<li>Insert a seedling plug to each holes on the upper half of the grow box. Make
 sure the bottom of the cups is immersed in the solution by at least a centimeter.
-If not, add **plain water** until the proper water level is reached.</li>
+If not, add <strong>plain water</strong> until the proper water level is reached.</li>
 
 <li>Examine the boxes for leaks and do troubleshooting.</li>
 
 </ol>
  
-</section>
 
-<section class="content" id="maintenance" markdown="1">
 
 # Maintenance of the SNAP Hydroponics System
 
@@ -372,10 +354,8 @@ plain water.
 * Crops that needs to be grown for over a month are replenished with fresh working
 solution.
 
-[Replenishment Guide]({{ site.baseurl }}/en/replenishment){:class="button
-    is-medium is-primary is-fullwidth" }
+[Replenishment Guide]({{ site.baseurl }}/en/replenishment){:class="btn btn-primary btn-block" }
 
-</section>
 
 For any additional questions please refer to the [frequently asked questions](/en/faq)
 page.

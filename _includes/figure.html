@@ -1,10 +1,12 @@
 {% assign figure = site.data.figures[include.figure] %}
 {% assign ext = include.ext | default: "jpg" %}
 
-<figure class="image is-{{ figure.width }}x{{ figure.height }}">
-    <img src="{{ site.baseurl }}/assets/images/{{ include.figure }}.{{ext}}"
-       alt="{{ figure.alt[page.lang] }}">
+<figure class="figure">
+  <img src="{{ site.baseurl }}/assets/images/{{ include.figure }}.{{ext}}"
+       width="{{ figure.width }}" height="figure.height" 
+                                  class="figure-img img-fluid"
+                                  alt="{{ figure.alt[page.lang] }}">
   {% if figure.caption %}
-  <figcaption>{{ figure.caption[page.lang] }}</figcaption>
+  <figcaption class="figure-caption">{{ figure.caption[page.lang] }}</figcaption>
   {% endif %}
 </figure>

@@ -1,21 +1,22 @@
-<nav class="navbar is-light" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item" href="{{ site.data.t[page.lang].home.url }}">
-      <img src="{{ site.baseurl }}/assets/images/snap-logo.png" alt="Logo: SNAP Nutrient Solution for Hydroponics" >
-    </a>
+{% capture fil_link %}
+{%- if page.lang == "fil" -%}{{ page.permalink }}{%- else -%}{{ page.permalink | remove_first: "/en" }}{%- endif -%}
+{% endcapture %}
+{% if fil_link == "" %}{% assign fil_link = "/" %}{% endif %}
+{% capture en_link %}
+{%- if page.lang == "en" -%}{{ page.permalink }}{%- else -%}{{ page.permalink | prepend: "/en" }}{%- endif -%}
+{% endcapture %}
 
-
-    <a class="navbar-item {% if page.lang == "fil" %}{{ "has-text-weight-bold" }}{% endif %}"
-        href="/">{{ site.data.t[page.lang].filipino.name }}</a>
-    <a class="navbar-item {% if page.lang == "en" %}{{ "has-text-weight-bold" }}{% endif %}"
-    href="/en">{{ site.data.t[page.lang].english.name }}</a>
-
-    <a href="#menu" role="button"
-       class="navbar-burger navbar-item"
-       aria-label="menu">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light" role="navigation" aria-label="main navigation">
+  <a class="navbar-brand" href="{{ site.data.t[page.lang].home.url }}">
+    <img width="100" src="{{ site.baseurl }}/assets/images/snap-logo.png" alt="Logo: SNAP Nutrient Solution for Hydroponics" >
+  </a>
+  <div class="nav-item {% if page.lang == "fil" %}active{% endif %}">
+    <a class="nav-link" href="{{ fil_link | prepend: site.baseurl }}">{{ site.data.t[page.lang].filipino.name }} {% if page.lang == "fil" %}<span class="sr-only">(current)</span>{% endif %}</a>
   </div>
+  <div class="nav-item {% if page.lang == "en" %}active{% endif %}">
+    <a class="nav-link" href="{{ en_link | prepend: site.baseurl }}">{{ site.data.t[page.lang].english.name }}  {% if page.lang == "en" %}<span class="sr-only">(current)</span>{% endif %}</a>
+  </div>
+  <a href="#menu" id="menu-link" class="navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </a>
 </nav>

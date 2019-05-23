@@ -3,16 +3,16 @@
   {% include head.html %}
 
   <body>
-    {% include header.html %}
-
-    {% include hero.html %}
-    <section class="section">
-      <div class="container content">
+    <header>
+      {% include header.html %}
+    </header>
+    <main role="main">
+      <div class="container">
+        {% include hero.html %}
         {{ content }}
+        {% include menu.html %}
       </div>
-      {% include menu.html %}
-    </section>
-
+    </main>
     {% include footer.html %}
   </body>
 </html>

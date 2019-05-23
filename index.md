@@ -8,8 +8,6 @@ description: >
 permalink: /
 ---
 
-<section class="content" id="mahalagang-paalala" markdown="1">
-
 # Mahalagang Paalala
 
 Ang SNAP ay isang mababang halagang sistemang haydroponiko na madaling
@@ -38,14 +36,12 @@ Mga Halimbawa:
 umaga na natatakpan <i lang="en">awning</i> (katanggap-tanggap)
 
 {% include figure.html figure="suitable-snap-location" %}
-</section>
 
 Para sa mga talagang baguhan, madiin na minumungkahi na magsimula sa pagtatanim
 ng letsugas. Ang <i lang="en">loose leaf lettuce</i> ay nirererekomenda sa mga
 buwan ng tag-init. Maari ring magsimula ang mga baguhan sa mga ibang madahong
 gulay gaya ng pechay, mustasa o kangkong.
 
-<section class="content" id="establish-seedlings" markdown="1">
 
 # Magpatubo ng Binhi
 
@@ -79,8 +75,7 @@ mga sanhi ng sakit.
 
 {% include figure.html figure="coco-peat" %}
 
-[Gabay sa <i lang="en">Coco Peat</i>]({{ site.baseurl }}/coco-peat){:class="button is-medium is-primary
-is-fullwidth"}
+[Gabay sa <i lang="en">Coco Peat</i>]({{ site.baseurl }}/coco-peat){:class="btn btn-primary btn-block"}
 
 ### Mga Buto
 
@@ -114,19 +109,16 @@ sa kanila ang uusbong.
 </li>
 
 <li markdown="1">Palakihin ang mga binhi ng sampung (10) araw bago ilipat sa
-kanya-kanyang <i lang="en">[seedling plugs](#prepare-seedling-plugs)</i>.
+kanya-kanyang <i lang="en">[seedling plugs](#ihanda-ang-mga-seedling-plugs)</i>.
 
 {% include figure.html figure="germinated-seeds" %}
 </li>
 
 </ol>
 
-[Gabay sa Pagpapatubo ng Binhi]({{ site.baseurl }}/seedling-production){:class="button is-medium is-primary
-is-fullwidth"}
+[Gabay sa Pagpapatubo ng Binhi]({{ site.baseurl }}/seedling-production){:class="btn btn-primary btn-block"}
 
-</section>
 
-<section class="content" id="prepare-grow-boxes" markdown="1">
 # Ihanda ang mga <i lang="en">Grow Boxes</i>
 
 
@@ -159,11 +151,10 @@ plastic bags</i>.
   
 Kailangang ng pambutas ng <i lang="en">styrofoam</i> upang lagyan ng butas ang
 ibabaw ng <i lang="en">grow box</i> para sa mga <i lang="en">[seedling
-plugs](#prepare-seedling-plugs)</i>. Ang lata na may tamang laki ay maaaring gawing
+plugs](#ihanda-ang-mga-seedling-plugs)</i>. Ang lata na may tamang laki ay maaaring gawing
 ganito.
 
-[Gabay sa Pambutas]({{site.baseurl}}/styrofoam-puncher){:class="button
-    is-primary is-medium is-fullwidth" }
+[Gabay sa Pambutas]({{site.baseurl}}/styrofoam-puncher){:class="btn btn-primary btn-block" }
 
 ### <i lang="en">Packaging Tape</i>
 
@@ -225,11 +216,8 @@ at hindi sila makakapangitlog sa loob ng <i lang="en">grow box</i>.
 {% include figure.html figure="lined-grow-box-lower-half" %}</li>
 </ol>
 
-[Gabay sa <i lang="en">Grow Boxes</i>]({{site.baseurl}}/grow-box){:class="button
-    is-primary is-medium is-fullwidth"}
-</section>
+[Gabay sa <i lang="en">Grow Boxes</i>]({{site.baseurl}}/grow-box){:class="btn btn-primary btn-block"}
   
-<section class="content" id="prepare-seedling-plugs" markdown="1">
 
 # Ihanda ang mga <i lang="en">Seedling Plugs</i>
 
@@ -248,7 +236,7 @@ Gagamitin ito upang gumawa ng mga hiwa sa ilalim ng mga <i lang="en">styro cup</
 
 ### Panatubong mga Binhi
 
-Magyaring basahin ang [seksiyon sa pagpapatubo ng mga binhi](#establish-seedlings).
+Magyaring basahin ang [seksiyon sa pagpapatubo ng mga binhi](#magpatubo-ng-binhi).
 
 ### <i lang="en">Growing Media</i>
 
@@ -296,12 +284,9 @@ ang mga inihandang <i lang="en">seedling plugs</i> ng mga ilang araw.
 </li>
 
 </ol>
-[Gabay sa <i lang="en">Working Solution</i>]({{site.baseurl}}/working-solution){:class="button
-    is-primary is-medium is-fullwidth"}
+[Gabay sa <i lang="en">Working Solution</i>]({{site.baseurl}}/working-solution){:class="btn btn-primary btn-block"}
 
-</section>
 
-<section class="content" id="assembly-maintenance" markdown="1">
 
 # Pag-setup ng <i lang="en">SNAP Hydroponics System</i>
 
@@ -314,16 +299,15 @@ ng <i lang="en">SNAP Nutrient Solution for Hydroponics</i>. Ang mga ito ay
 sinaliksik, ginagawa, at ipinagbibili sa IPB-UPLB. Ang mga ito rin ay ipinagbibili
 ng mga <i lang="en">SNAP Authorized Resellers</i>
 
-[Gabay sa <i lang="en">Authorized Resellers</i>]({{ site.baseurl }}/authorized-resellers){:class="button
-    is-primary is-medium is-fullwidth"}
+[Gabay sa <i lang="en">Authorized Resellers</i>]({{ site.baseurl }}/authorized-resellers){:class="btn btn-primary btn-block"}
 
 ### <i lang="en">Seedling Plugs</i>
 
-Mangyaring basahin ang [seksiyon sa  <i lang="en">seedling plugs</i>](#prepare-seedling-plugs).
+Mangyaring basahin ang [seksiyon sa  <i lang="en">seedling plugs</i>](#ihanda-ang-mga-seedling-plugs).
 
 ### <i lang="en">Growing Boxes</i>
 
-Mangyaring basahin ang [seksiyon sa  <i lang="en">grow boxes</i>](#prepare-grow-boxes).
+Mangyaring basahin ang [seksiyon sa  <i lang="en">grow boxes</i>](#ihanda-ang-mga-grow-boxes).
 
 ### Malinis na Tubig
 
@@ -356,14 +340,14 @@ at ang bawat isa ay nakakatanggap ng sapat na sikat ng araw upang suportahan ang
 paglaki ng mga halaman.
 </li>
 
-<li>Lagyan ang bawat isang grow box sampung litrong (10L) tubig.</li>
+<li>Lagyan ang bawat isang grow box sampung litrong (10L) tubig.
 
-{% include figure.html figure="adding-water" %}
+{% include figure.html figure="adding-water" %}</li>
 
-<li>Dagdagan ng 25 mL ng SNAP A. Haluing mabuti. Dagdagan ng 25 mL ng SNAP B.
+<li markdown="1">Dagdagan ng 25 mL ng SNAP A. Haluing mabuti. Dagdagan ng 25 mL ng SNAP B.
 Haluing mabuti. Kahit alin sa SNAP A o SNAP ay maaring maunang ihalo sa tubig
-subalit dapat tandaan na dapat haluing mabuti ang <i lang="en">mixture</i> sa
-pag-itin ng pagdagdag ng SNAP A/B <i lang="en">nutrient solution</i>. Ang resultang
+subalit dapat tandaan na dapat **haluing mabuti** ang <i lang="en">mixture</i> sa
+pagitan ng pagdagdag ng SNAP A/B <i lang="en">nutrient solution</i>. Ang resultang
 <i lang="en">mixture</i> ay ang <i lang="en">working solution</i>.
 
 {% include figure.html figure="working-solution" %}
@@ -372,17 +356,17 @@ pag-itin ng pagdagdag ng SNAP A/B <i lang="en">nutrient solution</i>. Ang result
 <li>Pagsamahin ang itaas at ibabang bahagi ng grow box at siguraduhing tama ang
 pagkakalapat nila.</li>
 
-<li>Maglagay ng seedling plug sa bawat butas sa itaas na bahagi ng
+<li markdown="1">Maglagay ng <i lang="en">seedling plug</i> sa bawat butas sa itaas na bahagi ng
 <i lang="en">grow box</i>. Siguraduhing ang ilalim ng mga baso ay nakalubog sa
 <i lang="en">solution</i> ng hindi bababa sa isang sentimetro (1 cm) ang sukat.
+Kung hindi pa, dagdagan ng **malinis na tubig** hanggang ang maabot tamang taas
+ng <i lang="en">solution</i>.
 </li>
 
 <li>Suriin ang mga kahon para sa mga butas at ayusin ang dapat ayusin.</li>
 </ol>
  
-</section>
 
-<section class="content" id="maintenance" markdown="1">
 
 # <i lang="en">Maintenance</i> ng Sistemang SNAP Hydroponics
 
@@ -417,9 +401,7 @@ dagdagan ng malinis na tubig.
 * Ang mga pananim na kailangang palakihin ng lampas sa isang buwan ay dapat
 dagdagan ng bagong <i lang="en">working solution</i>
 
-[Gabay sa <i lang="en">Replenishment</i>]({{ site.baseurl }}/replenishment){:class="button
-    is-medium is-primary is-fullwidth" }
-</section>
+[Gabay sa <i lang="en">Replenishment</i>]({{ site.baseurl }}/replenishment){:class="btn btn-primary btn-block" }
 
 Para sa mga karagdagang katanungan mangyaring sumangguni sa [mga madalas na tanong](/faq).
 

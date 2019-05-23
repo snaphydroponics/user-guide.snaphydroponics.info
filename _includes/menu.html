@@ -1,8 +1,8 @@
-<nav class="menu" id="menu">
-    <p class="menu-label">Menu</p>
-    <ul class="menu-list">
+<nav class="main-menu my-5">
+  <h2 id="menu">Menu</h2>
+    <ul class="list-group">
     {% for menu_item in site.data.t[page.lang].menu_items %}
-    <li><a href="{{ menu_item[1].url }}" class="{% if page.permalink == menu_item[1].url %}{{ "is-active" }}{% endif %}">{{ menu_item[1].name }}</a></li>
+    <li class="list-group-item {% if page.permalink == menu_item[1].url %}active{% endif %}"><a href="{{ menu_item[1].url }}" class="{% if page.permalink == menu_item[1].url %}active{% endif %}">{{ menu_item[1].name }}</a></li>
     {% endfor %}
     </ul>
 </nav>
