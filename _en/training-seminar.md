@@ -36,7 +36,8 @@ The course fee is ₱2,000. Inclusive of training materials and snacks.
 To sign up select “Hydroponics Vegetable Production with Emphasis on SNAP
 Hydroponics” on the online registration form.
 
-<a class="button is-primary is-medium" href="https://docs.google.com/forms/d/e/1FAIpQLSdHg6eiugsj3zhh2XYykY_NywBSVKCY5McfVb6__IXqHxncGQ/viewform">Sign Up for an IPB Short Training Course</a>
+<a class="button is-primary is-small" href="https://docs.google.com/forms/d/e/1FAIpQLSdHg6eiugsj3zhh2XYykY_NywBSVKCY5McfVb6__IXqHxncGQ/viewform">
+Sign Up for an IPB Short Training Course</a>
 
 ## Authorized Resellers
 
