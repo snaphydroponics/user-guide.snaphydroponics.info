@@ -1,6 +1,6 @@
 ---
 layout: page
-lang: fil
+lang: en
 title: SNAP Authorized Resellers
 description: >
   SNAP Authorized Resellers are the official distributors of SNAP Nutrient

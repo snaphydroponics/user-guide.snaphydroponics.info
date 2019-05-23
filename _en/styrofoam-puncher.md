@@ -94,18 +94,14 @@ The “T” shaped cut makes sure that the hole enlarges evenly and stays center
 as shown in the picture below. Repeat this process on the opposite side of the
 can.
 
-{% include figure.html figure="styrofoam-puncher-interior-view" %}
+{% include figure.html figure="bamboo-tool-centered" %}
 
 Push one of the bamboo sticks through the holes previously made. Make sure it is
 centered so that the length of the handles are even. Put the other half on top
 and so that the lid of the can is sandwiched between the pieces of bamboo. 
 Then lash them together tightly with a rubber band or string.
 
-{% include figure.html width="1024" height="683"
-    filename="styrofoam-puncher-interior-view.jpg"
-    alt="Interior view of the styrofoam puncher showing handles growing through
-    the side holes and across the interior of the can."
-    caption="Handles going through the side holes and along a diameter of the can." %}
+{% include figure.html figure="styrofoam-puncher-interior-view" %}
 
 Lastly, if preferred, the cutting edge of the tool can be sharpened by cutting
 off the lip of the open end of the can. Although this step can be performed

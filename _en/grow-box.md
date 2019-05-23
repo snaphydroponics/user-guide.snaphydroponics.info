@@ -131,7 +131,7 @@ Fold both ends of the plastic liner as shown below.
 Fold both sides of the plastic liner allowing the plastic liner to fit and “fall
 through.”
 
-{% include figure.html filename="plastic-liner-with-sides-folded" %}
+{% include figure.html figure="plastic-liner-with-sides-folded" %}
 
 At this point the edge of the plastic liner should be flush along the length of
 the grow box. Tape them in place at the center of the length of the grow box as
@@ -144,7 +144,7 @@ Note how the tape only holds the side flush edge of the plastic liner and not th
 folded part of the adjacent side.
 
 
-{% include figure.html ifgure="plastic-liner-with-corner-taped" %}
+{% include figure.html figure="plastic-liner-with-corner-taped" %}
 
 Repeat for the rest of the corners.
 
