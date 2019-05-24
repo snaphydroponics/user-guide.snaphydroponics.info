@@ -1,16 +1,12 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang }}">
+<html lang="{{ page.lang }}" class="h-100">
   {% include head.html %}
 
-  <body>
-    <header>
-      {% include header.html %}
-    </header>
-    <main role="main">
+  <body class="d-flex flex-column h-100">
+    {% include header.html %}
+    <main role="main" class="flex-shrink-0">
       <div class="container">
-        {% include hero.html %}
         {{ content }}
-        {% include menu.html %}
       </div>
     </main>
     {% include footer.html %}
