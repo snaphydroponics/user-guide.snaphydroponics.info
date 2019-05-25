@@ -15,20 +15,10 @@ sowing-tray:
     en: A microwavable tub with holes at the bottom and on the lid.
     fil: Isang microvable tub na may mga butas sa ilalim at sa takip.
   caption:
-    en: A micrwavable tub fashioned into a sowing tray.
+    en: A microwavable tub fashioned into a sowing tray.
     fil: Isang microwavable tub na giwawang punlaan ng buto.
 
 coco-peat:
-  width: 1280
-  height: 853
-  alt: 
-    en: A tub of hydrated coco peat.
-    fil: Isang balde ng pinaalsang coco peat.
-  caption:
-    en: Coco peat prepared from coco peat bricks.
-    fil: Coco peat na nagmula mula sa coco peat bricks.
-
-sowing-tray:
   width: 1280
   height: 853
   alt: 
@@ -207,16 +197,6 @@ seed-borne-diseases:
   caption:
     en: Seeds information sheet about seed-borne disease.
     fil: Information sheet tungkol sa mga sakit na nagmumula sa mga buto.
-
-sowing-tray:
-  width: 1280
-  height: 853
-  alt:
-    en: A microwable tub with holes at the bottom.
-    fil: Micorwavable na tub na may mga butas sa ilalim.
-  caption:
-    en: "Sowing tray: a used shallow microwavable tub with plenty of drain holes added at the bottom."
-    fil: "Punlaan: ginamit ang mababaw na microwavable tub na maraming butas na lugusan na dinagdag sa ilalim."
 
 lettuce-seedlings-and-seeds:
   width: 1280

@@ -91,7 +91,7 @@ pinch of small seeds (lettuce seeds for example) contains around twenty (20) to
 fifty (50) seeds. Be sure to consider the germination rate of the seeds which
 is usually indicated in the seed packets.
 
-{% include figure.html figure="germ-rate-highlight" %}</li>
+{% include figure.html figure="seed-packet-label" %}</li>
 
 <li>Water liberally. How long the seed will take to germinate is usually indicated
 on the sowing instructions printed on the seed packet. There are a number of

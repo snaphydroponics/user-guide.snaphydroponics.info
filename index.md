@@ -98,7 +98,7 @@ bilang halibawa) ay katumbas ng dalawampu (20) hanggang limampung (50) piraso
 ng buto. Mangyaring isaalang-alang ang <i lang="en">germination rate</i> ng mga
 buto na malimit ay nakasulat sa pakete ng buto.  
 
-{% include figure.html figure="sowing-tray" %}
+{% include figure.html figure="seed-packet-label" %}
 </li>
 
 
