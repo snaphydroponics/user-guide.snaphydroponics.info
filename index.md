@@ -136,6 +136,8 @@ nutrient solution</i> at hanggang limang (5) namumungang gulay. Ang mga
 buwan ng Setyembre hanggang Enero.
 
 
+[Gabay sa mga <i lang="en">Styrofoam Boxes</i>]({{site.baseurl}}/styrobox){:class="btn btn-primary btn-block" }
+
 ### <i lang="en">Lining Material</i>
 
 Ang mga <i lang="en" styrofoam>boxes</i> ay may mga <i lang="en">ventilation holes</i>
@@ -223,7 +225,7 @@ at hindi sila makakapangitlog sa loob ng <i lang="en">grow box</i>.
 
 ## Mga Kailangang Materyales
 
-### Mga <i lang="en">styro cups</i>
+### Mga <i lang="en">Styro Cups</i>
 
 Sa gabay na ito, ang gagamitin ay walong onsang (8oz.) <i lang="en">styro cup</i>
 na nakalarawan sa baba.
@@ -243,7 +245,7 @@ Magyaring basahin ang [seksiyon sa pagpapatubo ng mga binhi](#magpatubo-ng-binhi
 Maraming materyales ang maaring gamitin bilang <i lang="en">growing media</i>.
 Sa gabay na ito, <i lang="en">coco peat</i> ang gagamitin.
 
-### Plastik na Katsara, <i lang="en">BBQ stick</i> o mga Katulad na Gamit
+### Plastik na Kutsara, <i lang="en">BBQ stick</i> o mga Katulad na Gamit
 
 Gagamitin ito upang bungkalin ang mga binhi mula sa sowing tray. Gagamitin rin ito
 na pambungkal kapag naglilipat ng mga binhi sa mga <i lang="en">seedling plug</i>.

@@ -132,7 +132,7 @@ bottom half of the box to hold the nutrient solution it must be lined with a
 sturdy waterproofing sheet. This manual uses 20 ✕ 30 inch polyethylene (PE)
 plastic bags.
 
-{% include figure.html figure="20-by-30-pe-plastic-bag" %}
+{% include figure.html figure="pe-plastic-bag-20-by-30" %}
 
 
 ### Styrofoam Puncher
@@ -165,7 +165,7 @@ cutting step of the procedure.</li>
 <li>Draw guide lines connecting the ventilation holes from opposite sides of the
 box as illustrated below. A hole should be made centered where the lines cross.
 
-{% include figure.html figure="grow-box-top-guide" %}</li>
+{% include figure.html figure="guide-lines" %}</li>
 
 <li>To make holes, put the sharp end of the styrofoam puncher on the styrofoam
 and apply pressure to score the surface. Hold the tool by the handles and apply
