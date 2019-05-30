@@ -7,6 +7,7 @@ description: >
 permalink: /en
 ---
 
+{% include figure.html figure="snap-a-and-b" %}
 
 # Important Reminder
 

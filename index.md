@@ -8,6 +8,8 @@ description: >
 permalink: /
 ---
 
+{% include figure.html figure="snap-a-and-b" %}
+
 # Mahalagang Paalala
 
 Ang SNAP ay isang mababang halagang sistemang haydroponiko na madaling
