@@ -75,7 +75,6 @@ Seeds that are free of diseases and pests is the start of a good harvest.
 * Sterilized growing media - sterilized coco peat works well
 
 * Sowing tray - a shallow plastic tub with drain holes at the bottom works well
-Water
 
 {% include figure.html figure="sowing-tray" %}
 

@@ -3,14 +3,14 @@ layout: page
 lang: fil
 title: Pagsasanay sa SNAP Hydroponics
 description: >
-  Pagsasanay sa Produksiyon ng gulay gamit ang Hydroponics na may diin sa SNAP
+  Pagsasanay sa produksiyon ng gulay gamit ang hydroponics na may diin sa SNAP
   Hydroponics.
 permalink: /training-seminar
 ---
 
 Ang Institute of Plant Breeding (IPB) ay may maiksing kursong pagsasanay na may
-pamagat na “Training on Hydroponics Vegetable Production with Emphasis on SNAP
-Hydroponics.” Ang mga kalahok na nakatapos ng making kursong pagsasanay na ito
+pamagat na <i lang="en">“Training on Hydroponics Vegetable Production with Emphasis on SNAP
+Hydroponics.”</i> Ang mga kalahok na nakatapos ng making kursong pagsasanay na ito
 ay ginagawaran ng sertipiko ng pagkumpleto.
 
 ## Deskripsyon
@@ -28,9 +28,9 @@ na kahon at baso.
 
 Ang maiksing kursong pagsasanay sa SNAP <i lang="en">Hydroponics</i> ay regular
 na isinasagawa tuwing pangalawa at pang-apat na Martes ng bawat buwan. Subalit
-maaring mabago ang iskedyul depende kung makarating ang <i lang="en">resource
+maaring mabago ang iskedyul depende kung makakarating ang <i lang="en">resource
 speaker</i>. Tumatagal ng isang araw ang  pagsasanay at tipikal na nagsisimula
-ng 9:00AM at nagtatapos ng 5:00PM. Ang pagsasanay at ginagawa sa IPB.
+ng 9:00AM at nagtatapos ng 5:00PM. Ang pagsasanay ay ginagawa sa IPB.
 
 ## Bayad sa Kurso
 
@@ -55,7 +55,7 @@ sumusunod:
 pagsasanay sa SNAP <i lang="en">hydroponics</i>.
 
 * Mga Pananim na nasa SNAP <i lang="en">Hydroponics</i> - katunayan na kayang 
-gamitin ang mga natutunad sa maikling kursong pagsasanay.
+gamitin ang mga natutunan sa maikling kursong pagsasanay.
 
 Ang mga <i lang="en">authorized resellers</i> ay pinapahintulutang bumili ng
 <i lang="en">SNAP Nutrient Solution for Hydroponics</i> sa IPB ng bultuhan at

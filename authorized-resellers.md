@@ -21,9 +21,7 @@ nutrient toxicity</i>; mga batayang konsepto sa panghalamang kalusugan na may
 kaugnayan sa produksiyon ng gulay gamit ang <i lang="en">hydroponics</i>.
 
 Ang <i lang="en">SNAP Nutrient Solution for Hydroponics</i> ay sinalisik, ginagawa,
-at mabibili sa Institute of Plant Breeding ng UPLB (IPB-UPLB). Para 
-SNAP Nutrient Solution for Hydroponics is developed, manufactured and sold at
-the Institute of Plant Breeding (IPB).
+at mabibili sa Institute of Plant Breeding ng UPLB (IPB-UPLB).
 
 Para sa mga katanungan: 
 {% include ipb-address.html %}

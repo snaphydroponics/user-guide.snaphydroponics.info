@@ -36,7 +36,7 @@ sa styrobox]({{ site.baseurl }}/styrobox).
 ### <i lang="en">Lining Material</i>
 
 Ang mga <i lang="en">styrofoam</i> boxes ay may mga <i lang="en">ventilation holes</i>
-sa gilid. Upang kapapaglaman ng <i lang="en">nutrient solution</i> ang ibabang
+sa gilid. Upang makapapaglaman ng <i lang="en">nutrient solution</i> ang ibabang
 bahagi ng kahon, kailangan itong sapinan ng matibay na <i lang="en">waterproofing
 sheet</i>. Sa gabay na ito <i lang="en">20 ✕ 30 inch polyethylene (PE) plastic bags</i>
 ang gagamitin.
@@ -81,9 +81,9 @@ gitna ng mas maikling panig ng kahon upang alisin ang <i lang="en">lock</i> at
 hilahin ang itaas na bahagi papataas.
 
 Nirerekomenda na punasan ang <i lang="en">styrobox</i> ng malinis na basahan
-upang alisin ang alikabo, grasa o basa, dahil maaring maging dahilan ito ng
+upang alisin ang alikabok, grasa o basa, dahil maaring maging dahilan ito ng
 pagpalya ng <i lang="en">tape</i> na gagamitin upang ikabit ang <i lang="en">
-plastic liner</i>
+plastic liner.</i>
 
 ## Gawin ang Itaas na Bahagi ng <i lang="en">Grow Box</i>
 
@@ -103,7 +103,7 @@ Para gumawa ng butas, ipatong ang matalas na dulo ng pambutas sa <i lang="en">st
 at idiin ito upang markahan ang ibabaw nito. Hawakan ang pambutas sa hawakan at
 ipihit ito ng pakanan at pakaliwa habang dinidiinan ito upang tuluyan itong bumaon
 sa <i lang="en">foam</i>. Ituloy ang prosesong ito hanggang tuluyan itong tumagos
-sa <i lang="en">foam</i>
+sa <i lang="en">foam</i>.
 
 Marahang hilahin ang pambutas ng <i lang="en">styrofoam</i>. May maiiwang bilog
 na piraso ng styrofoam sa dulo ng pambutas. Gamitin ang kawayang patpat upang
@@ -180,8 +180,6 @@ Ulitin ang prosesong ito sa kabilang panig.
 {% include figure.html figure="lined-grow-box-lower-half" %}
 
 Buo na ang <i lang="en">grow box</i>.
-
-## Remove the Locking Tabs (Optional)
 
 ## Alisin ang mga <i lang="en">Locking Tabs</i> (Opsyonal)
 

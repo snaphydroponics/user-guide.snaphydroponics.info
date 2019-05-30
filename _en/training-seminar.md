@@ -3,7 +3,7 @@ layout: page
 lang: en
 title: SNAP Hydroponics Training
 description: >
-  Training on Hydroponics Vegetable Production with Emphasis on SNAP Hydroponics.
+  Training on hydroponics vegetable production with emphasis on SNAP Hydroponics.
 permalink: /en/training-seminar
 ---
 

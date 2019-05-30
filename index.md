@@ -51,7 +51,7 @@ gulay gaya ng pechay, mustasa o kangkong.
 
 ### Punlaan
 
-Mababaw na kahon lalagyan na may mga butas sa ilalim. Maari itong gawin mula sa
+Mababaw na kahong lalagyan na may mga butas sa ilalim. Maari itong gawin mula sa
 mga <i lang="en">microwavable containers</i>. Siguraduhing mayroong butas sa
 ilalim. Mahalaga na nakakalusot ang tubig sa ilalim ng punlaan. Dahil kung hindi,
 mabababad ang mga buto o supling sa tubig na maaring ikabulok ng mga buto at 
@@ -131,9 +131,10 @@ kanya-kanyang <i lang="en">[seedling plugs](#ihanda-ang-mga-seedling-plugs)</i>.
 Ang mga kahong yari sa <i lang="en">Expanded Polystyrene (EPS)</i> na mas kilala
 sa pangalang <i lang="en">“styrofoam box”</i> o “syrobox” ang angkop na materyales
 para sa <i lang="en">grow box</i> (o <i lang="en">"growing box"</i>). Ang rekomendadong
-laki para sa <i lang="en">SNAP Hydroponics</i> ay 20"×16"×6". Ang nga kahong ito
-aya kayang maglaman ng sampu (10) hanggang labingdalawang (12) litro ng <i lang="en">
-nutrient solution</i> at hanggang limang (5) namumungang gulay. Ang mga
+laki para sa <i lang="en">SNAP Hydroponics</i> ay 20"×16"×6". Ang mga kahong ito
+ay kayang maglaman ng sampu (10) hanggang labingdalawang (12) litro ng <i lang="en">
+nutrient solution</i> at may sapat na lugar para magpalaki ng hanggang walong (8)
+madahong gulay at hanggang limang (5) namumungang gulay. Ang mga
 <i lang="en">styroboxes</i> na may ganitong laki ay pangkaraniwang makikita sa mga
 buwan ng Setyembre hanggang Enero.
 
@@ -199,7 +200,7 @@ Ipagpatuloy ito hanggang tuluyang mabutas ang <i lang="en">foam</i>.
 
 <li>Maingat na bunutin ang pambutas ng <i lang="en">styrofoam</i>. Isang bilog na 
 piraso ng <i lang="en">foam</i> ang maiiwan sa dulo ng pambutas. Gamitin ang patpat
-upang maingan na itulak ang isang panig nito. Iikot ang pirasong ito at lalabas
+upang maingat na itulak ang isang panig nito. Iikot ang pirasong ito at lalabas
 ang kabilang panig palabas ng pambutas at magiging madali ang pag-alis nito sa
 pambutas.
 </li>
@@ -338,10 +339,9 @@ ng araw.
 
 <ol>
 
-<li>Isaayos ang mga <i lang="en">grow boxes</i> sa silungan. 
-Arrange the growing boxes in your shelter. Siguraduhing ang bawat isa ay pantay
-at ang bawat isa ay nakakatanggap ng sapat na sikat ng araw upang suportahan ang
-paglaki ng mga halaman.
+<li>Isaayos ang mga <i lang="en">grow boxes</i> sa silungan. Siguraduhing ang
+bawat isa ay pantay at ang bawat isa ay nakakatanggap ng sapat na sikat ng araw
+upang suportahan ang paglaki ng mga halaman.
 </li>
 
 <li>Lagyan ang bawat isang grow box sampung litrong (10L) tubig.
@@ -403,7 +403,7 @@ dinadagdagan ng laman ng <i lang="en">grow box</i>.
 dagdagan ng malinis na tubig.
 
 * Ang mga pananim na kailangang palakihin ng lampas sa isang buwan ay dapat
-dagdagan ng bagong <i lang="en">working solution</i>
+dagdagan ng bagong <i lang="en">working solution</i>.
 
 [Gabay sa <i lang="en">Replenishment</i>]({{ site.baseurl }}/replenishment){:class="btn btn-primary btn-block" }
 

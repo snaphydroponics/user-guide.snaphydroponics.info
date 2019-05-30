@@ -73,5 +73,5 @@ pagdagdag ng <i lang="en">working solution</i> ay dapat gawin kada buwan.
 Kalimitan, bumababa ang lebel ng <i lang="en">working solution</i> ng mas maaga
 sa isang buwan, lalong-lalo na sa mga malalaking halaman. Sa mga ganitong
 pagkakataon, i-<i lang="en">replenish</i> ang <i lang="en">working solution</i>
-sa gamit ang malinis na tubig.
+gamit ang malinis na tubig.
 

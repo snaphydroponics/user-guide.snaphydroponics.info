@@ -53,8 +53,7 @@ Ang mga ito ay mabibili sa mga nagtitinda ng prutas na nagtitinda ng <i lang="en
 imported</i> na ubas. May mga [karagdang impormasyon tungkol sa mga
 <i lang="en">styroboxes</i> dito]({{ site.baseurl }}/styrobox).
 
-## Ano ang maari kong gawin sa natitirang <i lang="en">solution</i> matapos anihin
-ang mga pananim?
+## Ano ang maari kong gawin sa natitirang <i lang="en">solution</i> matapos anihin ang mga pananim?
 
 Maari itong gamiting pandilig sa mga regular na nakapasong halaman. Ito may naglalaman
 pa ng kaunting sustansiya na makakapagpataba ng mga halaman.

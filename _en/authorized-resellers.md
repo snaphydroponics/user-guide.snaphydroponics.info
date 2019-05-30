@@ -18,9 +18,9 @@ identification of different nutrient deficiency and toxicity symptoms;
 basic concepts in plant nutrition relevant to hydroponics vegetable production.
 
 SNAP Nutrient Solution for Hydroponics is developed, manufactured and sold at
-the Institute of Plant Breeding (IPB) of UPLB.
+IPB-UPLB.
 
 For inquries:
 {% include ipb-address.html %}
 
-*[UPLB]: University of the Philippines Los Baños
+*[IPB-UPLB]: Institute of Plant Breeding, University of the Philippines Los Baños

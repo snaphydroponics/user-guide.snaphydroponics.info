@@ -10,7 +10,7 @@ permalink: /working-solution
 
 {% include figure.html figure="working-solution" %}
 
-Ang pinaglalong tubig at <i lang="en">SNAP Hydroponics Nutrient Solution for
+Ang pinaghalong tubig at <i lang="en">SNAP Hydroponics Nutrient Solution for
 Hydroponics A</i> at <i lang="en">SNAP Hydroponics Nutrient Solution for
 Hydroponics B</i> ay tinatawag na <i lang="en">working solution</i>. Nasa baba
 ang mga hakbang kung paano ito gawin.

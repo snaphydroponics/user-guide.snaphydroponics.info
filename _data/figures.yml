@@ -6,17 +6,17 @@ suitable-snap-location:
     fil: Mga grow boxes na may lumalaking halaman, nakalagay sa mga patungan, at nasa maaraw na lugar.
   caption:
     en: A suitable SNAP Hydroponics growing location.
-    fil: Isang angkop na lugar para sa pagpapatubo gamit ang SNAP Hydroponics
+    fil: Isang angkop na lugar para sa pagpapatubo gamit ang SNAP Hydroponics.
 
 sowing-tray:
   width: 1280
   height: 853
   alt: 
     en: A microwavable tub with holes at the bottom and on the lid.
-    fil: Isang microvable tub na may mga butas sa ilalim at sa takip.
+    fil: Microwavable na tub na may mga butas sa ilalim.
   caption:
     en: A microwavable tub fashioned into a sowing tray.
-    fil: Isang microwavable tub na giwawang punlaan ng buto.
+    fil: "Punlaan: ginamit ang mababaw na microwavable tub na maraming butas na lagusan na dinagdag sa ilalim."
 
 coco-peat:
   width: 1280
@@ -53,7 +53,7 @@ guide-lines:
   height: 853
   alt:
     en: Upper half of the grow box showing how the guidelines are drawn.
-    fil: Itaas na hati ng grow box na pinapakita ang mga ginuhit na linyang gabay.
+    fil: Itaas na bahagi ng grow box na pinapakita ang mga ginuhit na linyang gabay.
   caption:
     en: Lines connecting ventilation holes in opposite sides. A hole is made where they intersect.
     fil: Mga linyang pinagdudugsong ang mga ventilation holes sa mga magkasalungat na panig. Gagawa ng butas kung saan sila nagtatagpo.
@@ -63,7 +63,7 @@ grow-box-top-bottom-view:
   height: 853
   alt: 
     en: Upper half of the grow box showing how the punched holes are positioned with respect to the guide lines.
-    fil: Itaas na hat ng grow box na pinapakita kung paano nakasentro ang mga butas gamit ang mga linyang gabay bilang gabay.
+    fil: Itaas na bahagi ng grow box na pinapakita kung paano nakasentro ang mga butas gamit ang mga linyang gabay bilang gabay.
   caption: 
     en: Holes are punched where the guide lines intersect.
     fil: Ginawa ang butas kung saan nagtatagpo ang mga linyang gabay.
@@ -173,9 +173,9 @@ mustasa-seedlings:
   height: 853
   alt:
     en: Young mustasa seedlings displaying healthy stalk and cotyledons.
-    fil: Mga batang binhi ng mustasa na nagpapakita ng malatag na tangkay at mga cotyledons
+    fil: Mga batang binhi ng mustasa na nagpapakita ng matatag na tangkay at mga cotyledons
   caption:
-    en: Healtlhy mustasa seedlings.
+    en: Healthy mustasa seedlings.
     fil: Mga malusog na binhi ng mustasa.
 
 seed-packet-label:
@@ -195,7 +195,7 @@ seed-borne-diseases:
     en: A brochure with information about seed borne diseases.
     fil: Brochure na may impormasyon tungkol sa mga sakit na namumula sa mga buto.
   caption:
-    en: Seeds information sheet about seed-borne disease.
+    en: Information sheet about seed-borne disease.
     fil: Information sheet tungkol sa mga sakit na nagmumula sa mga buto.
 
 lettuce-seedlings-and-seeds:
@@ -205,8 +205,8 @@ lettuce-seedlings-and-seeds:
     en: A tub with grown lettuce seedlings and another tub with recently sown lettuce seedlings.
     fil: Lalagyan na may lumaking binhi at isapang lalagyan na may kakapunla lang na buto ng letsugas.
   caption:
-    en: "Left: Seedlings ready for prickling; Right: Seeds recently sown."
-    fil: "Kaliwa: Mga binhi na handa ng ipunla; Kanan: Mga butong kakapunla lamang."
+    en: "Left: Seedlings ready for prickling; right: Seeds recently sown."
+    fil: "Kaliwa: Mga binhi na handa ng ipunla; kanan: Mga butong kakapunla lamang."
 
 styrofoam-punchers:
   width: 1280
@@ -226,7 +226,7 @@ tin-can-styro-cup-fit:
     fil: Ang walong onsang styrofoam na baso ay nakasuksok sa lata na may tatlong puldadang diameter.
   caption:
     en: Eight-ounce styrofoam cups fits well in 3in diameter tin cans
-    fil: Ang walang onsang styrofoam na baso ay kasyang-kasya sa latang may tatlong pulgadang diameter.
+    fil: Ang walong onsang styrofoam na baso ay kasyang-kasya sa latang may tatlong pulgadang diameter.
 
 bamboo-stick-pair:
   width: 1280
@@ -273,7 +273,7 @@ enlarged-hole:
   height: 853
   alt:
     en: A short bamboo stick with a pointy end driven through the “T” shaped cut to enlarge it.
-    fil: Maikling kawayang patpat na may matulis na dulo na pinatags sa hugis “T” na hiwa upang mapalaki ito.
+    fil: Maikling kawayang patpat na may matulis na dulo na pinatagos sa hugis “T” na hiwa upang mapalaki ito.
   caption:
     en: Enlarge the hole by hammering the bamboo tool through the cut.
     fil: Palakihin ang butas sa pamamagitan ng pagpukpok ng kagamitang yari sa kawayan patagos sa hiwa.
@@ -373,7 +373,7 @@ plastic-liner-with-sides-taped:
   height: 853
   alt:
     en: Plastic liner taped at the center of the length of the grow box.
-    fil: Plastic liner na nakatape sa gitna nag haba ng grow box.
+    fil: Plastic liner na naka-tape sa gitna ng haba ng grow box.
   caption:
     en: Sides of the plastic liner taped in place at the center.
     fil: Tabi ng plastic liner na idinikit ng tape sa gitna.
@@ -396,7 +396,7 @@ plastic-liner-with-all-corners-taped:
     fil: Plastic liner na nakalatag sa ibabaw ng ibabang bahagi ng grow box na naka-tape lahat ng mga kanto.
   caption:
     en: Plastic liner with all corners properly taped.
-    fil: Nakatape ng ng maayos ang mga kanto ng plastic liner.
+    fil: Nakatape na ng maayos ang mga kanto ng plastic liner.
 
 plastic-liner-end-positioned:
   width: 1280
@@ -423,7 +423,7 @@ measuring-cup:
   height: 853
   alt:
     en: White 30mL plastic cup with a superimposed level indicator
-    fil: Puting 30mL na plastic cup na may nakapatong na palatandaan ng level.
+    fil: Puting 30mL na plastic cup na may nakapatong na palatandaan ng lebel.
   caption: 
     en: Filling up this cup to the level indicated is 25mL.
     fil: Punuin ang ganitong klaseng cup sa lebel na may tanda para sa 25mL.
@@ -436,7 +436,7 @@ snap-a-and-b:
     fil: Pares ng 500mL PET bottles na naglalaman ng SNAP at SNAP B.
   caption:
     en: SNAP A is white and cloudy and SNAP B is clear and yellowish.
-    fil: Ang SNAP A ay puti ang malabo at ang SNAP B ay malinaw at may pagkadilaw.
+    fil: Ang SNAP A ay puti at medyo malabo at ang SNAP B ay malinaw at may pagkadilaw.
 
 styrobox-arrangement:
   width: 1280
@@ -453,7 +453,7 @@ replenishment-1:
   height: 720
   alt:
     en: "An illustration: the bottom of the seedling plugs is immersed in the working solution. Roots are yet to come out."
-    fil: "Ilustrasyon: ang mga ibabang bahagi ng seedling plugs ay nakatubog sa working solution. Wala pang ugat na nalabas"
+    fil: "Ilustrasyon: ang mga ibabang bahagi ng seedling plugs ay nakatubog sa working solution. Wala pang ugat na nalabas."
   caption: 
     en: Initially, the bottom of the seedling plugs is immersed in the working solution by about 1–2 cm.
     fil: Sa simula, ang ibabang bahagi ng seeling plugs ay nakatubog sa working solution na may lalim na 1-2cm.
@@ -483,20 +483,20 @@ replenishment-4:
   height: 720
   alt:
     en: "An illustration: more roots have grown out of the seedling plug and the working solution level is now very low."
-    fil: "Ilustrasyon: mas marami pang ugat ang tubugo papalabas ng seeling plug at ang lebel ng working solution a napakababa na ngayon."
+    fil: "Ilustrasyon: mas marami pang ugat ang tubugo papalabas ng seeling plug at ang lebel ng working solution ay napakababa na ngayon."
   caption: 
     en: The working level is low and needs replenishment.
-    fil: Ang lebel nag working solution ay mababa na at kailangan ng dagdagan.
+    fil: Ang lebel nag working solution ay mababa na at kailangan nang dagdagan.
 
 replenishment-5:
   width: 1280
   height: 720
   alt:
     en: "An illustration: the working solution level has been raised but it is not reaching the bottom of the cup submersing all of the roots."
-    fil: "Ilustrasyon: naitas na ang lebel ng working solution pero hindi nito na rating ang ibabang bahagi ng mga baso at hindi inilubog ang lahat ng mga ugat."
+    fil: "Ilustrasyon: naitas na ang lebel ng working solution pero hindi nito narating ang ibabang bahagi ng mga baso at hindi inilubog ang lahat ng mga ugat."
   caption:
     en: Working solution level replenished and is sitting just below the bottoms of the seedling plugs.
-    fil: Nadagdagan na ang lebel ng working solution  at ito ay nasa ibaba lamang ng ibabang bahagi ng mga seedling plugs.
+    fil: Nadagdagan na ang lebel ng working solution at ito ay nasa ibaba lamang ng ibabang bahagi ng mga seedling plugs.
 
 
 

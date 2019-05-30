@@ -46,9 +46,8 @@ mababa ang kalidad.
 
 ### Pinagmumulan ng Normal na Binhi
 
-Ang mga binhing sumisibol sa mainam na mga buto ay may malusog na <i lang="en">radicle</i>
+Ang mga binhing sumisibol sa mainam na mga buto ay may malusog na <i lang="en">radicle</i>,
 matatag na tangkay, at malusog na <i lang="en">cotydedon</i>.
-Seedlings that sprout from good seeds have healthy radicle, strong stem, healthy cotyledons and vigorous growth.
 
 {% include figure.html figure="mustasa-seedlings" %}
 
@@ -86,7 +85,7 @@ Ang mga buto na walang mga sakit at mga peste ang simula ng masaganang ani.
 ### Materials
 
 * <i lang="en">Sterilized</i> na <i lang="en">growing media</i> - ang
-<i lang="en">sterilized</i> lang na coco peat ay angkop dito
+<i lang="en">sterilized</i> na coco peat ay angkop dito
 
 * Punlaan - ang mababaw na lalagyan na may butas na lagusan ng tubig sa ilalim
 ay angkop dito.
@@ -101,8 +100,8 @@ dalawa hanggang tatlong sentimetro ang kapal (2-3 cm). Dasikin at pantayin ang
 <i lang="en">growing medium</i></li>
 
 <li>Ibodbod ang mga maliit na buto ng manipis at pantay-pantay. Kung gaano karami
-ay nakadepende kung ilan ang kailanganin. Isaalang-alang na maglaan ng karagdagang
-mga buto na mga labinglimang porsyento (15%) ng dami ng kailanganin upang masagot
+ay nakadepende kung ilan ang kakailanganin. Isaalang-alang na maglaan ng karagdagang
+mga buto na mga labinglimang porsyento (15%) ng dami ng kakailanganin upang masagot
 ang <i lang="en">germination rate</i> at iba pang mga sanhi na maaring ikabawas
 ng mga binhi.</li>
 
@@ -127,6 +126,6 @@ ang mga buto.
 Upang mapanatili ang mataas na <i lang="en">germination rate</i> ng mga buto na
 nasa bukas na pakete, ilagay ang mga ito sa kanilang orihinal na <i lang="en">foil
 packets</i> na nakatiplop ng sarado ang bukas na dulo. Ilagay ang mga ito sa 
-saradong plastik na lalagyan at panatilihing <i lang="en">refrigirated</i> ang
+saradong plastik na lalagyan at panatilihing <i lang="en">refrigerated</i> ang
 mga ito.
 

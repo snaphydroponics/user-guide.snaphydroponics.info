@@ -30,9 +30,9 @@ sila sa lata mismo gaya ng makikita sa baba.
 {% include figure.html figure="tin-can-styro-cup-fit" %}
 
 Ang paggamit ng lata na may <i lang="en">ribbing</i> ay nirerecomenda. Ang
-<i lang="en">ribbing</i> ay nagpapatibay sa lata at bibibigyang lakas itong
+<i lang="en">ribbing</i> ay nagpapatibay sa lata at binibigyang lakas itong
 mapanatili ang bilog nitong hugis kahit na ang labi nito ay putulin upang palalasin
-ang dulong pambutas.
+ang dulo ng pambutas.
 
 ### Mga Kawayang Patpat
 
@@ -43,10 +43,10 @@ kapal upang gumawa ng isang pares na isang kapat na pulgada ang kapal. Gawin
 ito sa pamamagitan ng paghati sa patpat na nakayon sa himaymay. Dapat ito ay
 may sapat na haba upang tumahak sa <i lang="en">diameter</i> ng lata at may
 tatlong pulgadang nakalampas sa tigkabilang tabi ng lata. Siguraduhing makinis
-ang mga gilid at mga putol na dulo ng mga patpat ka kawayan upang alisin ang 
+ang mga gilid at mga putol na dulo ng mga patpat na kawayan upang alisin ang 
 mga tatal at matalas na gilid.
 
-Ang paggamit ng isang pirasong kawayan ang makakatipid ng oras at pagod. Ngunit
+Ang paggamit ng isang pirasong kawayan ay makakatipid ng oras at pagod. Ngunit
 ang paugoy-ugoy na paggalaw na mararanasan ng gamit na ito ay maagang ikakasira
 nito. Ang mga hawakan ay maglalagay ng pwersa sa mga butas kung saan nakalusot
 ang mga ito sa lata. Ang mga tabi ng lata ay manipis at malambot. Ang pwersang
@@ -60,7 +60,7 @@ maglilipat ng pwersa sa takip na mas kayang indahin ang mga pwersang ito.
 ### Lastiko
 
 Lastiko o ibang materyales na maaring gamitin upang italing magkasama ang mga
-pat na kawayan. Maari ring gumamit ng matibay na tali o tamsi.
+patpat na kawayan. Maari ring gumamit ng matibay na tali o tamsi.
 
 ## Mga Kagamitan
 
@@ -78,7 +78,7 @@ cross section</i> ng materyales na gagamitin bilang hawakan.
 
 {% include figure.html figure="bamboo-stick-with-pointed-end" %}
 
-Kutsilyo o itak na gagamtin para sa kawayan at lata; pambukas ng lata upang 
+Kutsilyo o itak na gagamitin para sa kawayan at lata; pambukas ng lata upang 
 kumpletong buksan ang isang dulo ng lata ay kailangan din.
 
 ## Mga Hakbang
@@ -88,7 +88,7 @@ lata.
 
 Gamit nag kutsilyo o itak, gumawa ng hugis “T” na hiwa sa isang tabi ng lata
 malapit sa saradong dulo ng lata. Ang hugis “T” na ito ay maggagarantiya na ang
-butas ay mananatiling nakagitna kahit na ito ay palakihin ng gamit ang maliit na
+butas ay mananatiling nakagitna kahit na ito ay palakihin gamit ang maliit na
 patpat na may matulis na dulo.
 
 {% include figure.html figure="t-shaped-cut" %}
@@ -107,7 +107,7 @@ sa kabilang panig ng lata.
 {% include figure.html figure="bamboo-tool-centered" %}
 
 Ilusot ang isa sa mga patpat na kawayan sa butas. Siguraduhing ito ay nakagitna
-upang magpatay ang haba ng mga hawakan. Ipatong ang isa pang patpat upang maitpit
+upang magpantay ang haba ng mga hawakan. Ipatong ang isa pang patpat upang maipit
 ang takip ng lata sa pagitan ng piraso ng kawayan. Itali mga itong mabuti gamit
 ang tali o lastiko.
 

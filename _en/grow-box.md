@@ -68,7 +68,7 @@ lower halves are designed to fit together are different depending on the
 manufacturer and the manufacturer’s type designation. This means the upper and
 lower halves of the styrobox won’t fit properly if they are not of the same type.
 
-The styrobox has a locking tabs to keep it shut. To open the box press on the
+The styrobox has locking tabs to keep it shut. To open the box press on the
 lower half at the middle of one of the shorter side to release the lock then
 pull the upper half away.
 
