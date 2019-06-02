@@ -89,7 +89,7 @@ madahong gulay gaya ng letsugas, pechay, mustasa o kangkong.
 
 <ol>
 
-<li>Latagan ang punlaan ng basang <i lang="en">coco peat</i> mga isang pulgada
+<li>Latagan ang punlaan ng basang <i lang="en">coco peat</i>, mga isang pulgada
 ang kapal.</li>
 
 <li>Dasigin at pantayin ang <i lang="en">coco peat</i>.</li>
@@ -105,7 +105,7 @@ buto na malimit ay nakasulat sa pakete ng buto.
 
 
 <li>Katamtamang diligan. Kung gaaano katagal ang aabutin para sumibol ang mga
-buto ay malimit nakatala sa pakete ng mga buto. Maraming mga sandhi ang
+buto ay malimit nakatala sa pakete ng mga buto. Maraming mga sanhi ang
 makaaapketo sa tagal ng panahon na kailangan upang umusbong ang mga buto at ilan
 sa kanila ang uusbong.
 </li>
@@ -129,7 +129,7 @@ kanya-kanyang <i lang="en">[seedling plugs](#ihanda-ang-mga-seedling-plugs)</i>.
 ### <i lang="en">Styrobox</i>
 
 Ang mga kahong yari sa <i lang="en">Expanded Polystyrene (EPS)</i> na mas kilala
-sa pangalang <i lang="en">“styrofoam box”</i> o “syrobox” ang angkop na materyales
+sa pangalang <i lang="en">“styrofoam box”</i> o “styrobox” ang angkop na materyales
 para sa <i lang="en">grow box</i> (o <i lang="en">"growing box"</i>). Ang rekomendadong
 laki para sa <i lang="en">SNAP Hydroponics</i> ay 20"×16"×6". Ang mga kahong ito
 ay kayang maglaman ng sampu (10) hanggang labingdalawang (12) litro ng <i lang="en">
@@ -144,7 +144,7 @@ buwan ng Setyembre hanggang Enero.
 ### <i lang="en">Lining Material</i>
 
 Ang mga <i lang="en" styrofoam>boxes</i> ay may mga <i lang="en">ventilation holes</i>
-na sa kanilang mga gilid. Upang makapanglaman ng <i lang="en">nutrient solution</i>
+na sa kanilang mga gilid. Upang makapaglaman ng <i lang="en">nutrient solution</i>
 ang ibabang bahagi ng kahon kailangan itong latagan ng matibay na <i lang="en">waterproofing
 sheet</i>. Sa manual na ito, gagamit ng 20 ✕ 30 <i lang="en">inch polyethylene (PE)
 plastic bags</i>.
@@ -185,12 +185,12 @@ ng patungan sa pagbubutas.</li>
 
 <li>
 Gumuhit ng mga linyang gabay na pinagdudugsong ang mga <i lang="en">ventilation holes</i>
-mula sa magkasalungat na panig ng kahon gaya nakararawan sa ibaba. Gagawa ng butas
-nakagitna kung saan nagtatagpo ang mga linya.
+mula sa magkasalungat na panig ng kahon gaya nakalarawan sa ibaba. Gagawa ng butas
+na nakagitna kung saan nagtatagpo ang mga linya.
 
 {% include figure.html figure="guide-lines" %}</li>
 
-<li>Upang gumawa ng mga butas, ipatong ang matalas na dulog ng pambutas ng <i lang="en">styfoam puncher</i>
+<li>Upang gumawa ng mga butas, ipatong ang matalas na dulo ng pambutas ng <i lang="en">styfoam puncher</i>
 sa <i lang="en">styrofoam</i> at idiin ito upang lagyan ng marka ang ibabaw.
 Hawakan ang pambutas sa mga hawakan at idiin ito habang iniiikot ng pakanan at
 pakaliwa. Sa ganitong paraaan, lalong lalalim ang pambutas sa <i lang="en">foam</i>.
@@ -210,7 +210,7 @@ pambutas.
 {% include figure.html figure="grow-box-top-bottom-view" %}</li>
 
 <li>Madiing minumungkahing gamitin ang <i lang="en">packing tape</i> upang takpan
-ang mga <i lang="en">ventilation holes</i> sa bagahing ito ng <i lang="en">styrobox</i>
+ang mga <i lang="en">ventilation holes</i> sa bahaging ito ng <i lang="en">styrobox</i>
 kung ang iyong lugar na pagpapatubuan ay walang proteksiyon sa lamok. Sa ganitong
 paraan, mapipigilang maabot ng mga lamok ang <i lang="en">nutrient solution</i>
 at hindi sila makakapangitlog sa loob ng <i lang="en">grow box</i>.
@@ -239,7 +239,7 @@ na nakalarawan sa baba.
 
 Gagamitin ito upang gumawa ng mga hiwa sa ilalim ng mga <i lang="en">styro cup</i>.
 
-### Panatubong mga Binhi
+### Pinatubong mga Binhi
 
 Magyaring basahin ang [seksiyon sa pagpapatubo ng mga binhi](#magpatubo-ng-binhi).
 
@@ -363,7 +363,7 @@ pagkakalapat nila.</li>
 <li markdown="1">Maglagay ng <i lang="en">seedling plug</i> sa bawat butas sa itaas na bahagi ng
 <i lang="en">grow box</i>. Siguraduhing ang ilalim ng mga baso ay nakalubog sa
 <i lang="en">solution</i> ng hindi bababa sa isang sentimetro (1 cm) ang sukat.
-Kung hindi pa, dagdagan ng **malinis na tubig** hanggang ang maabot tamang taas
+Kung hindi pa, dagdagan ng **malinis na tubig** hanggang maabot ang tamang taas
 ng <i lang="en">solution</i>.
 </li>
 
@@ -380,7 +380,7 @@ ng <i lang="en">solution</i>.
 sila ay nagtatago at mas mahirap makita.
 
 * Asahan ang mabagal na paglaki ng mga binhi sa unang dalawang linggo pagkatapos
-silang <i lang="en">transplant</i>, lalo na kung ang mga punla ay hindi
+silang i-<i lang="en">transplant</i>, lalo na kung ang mga punla ay hindi
 dumaan sa pagpapatibay. Sa unang dalawang linggo, ang halaman ay nagsasanay na
 lumaki ng nakababad sa tubig.
 
@@ -397,7 +397,7 @@ itong hayaang matuyo ng tuluyan.  Kapag nagdadagdag ng <i lang="en">solution</i>
 **huwag** itong hayaang maabot ang ilalim ng mga baso at ilubog ang lahat ng mga
 ugat. Ang itaas na bahagi ng mga ugat ng mga halaman ay dapat laging nakalantad
 sa hangin kaya hindi dapat ito nakalubog sa tubig. Palagian itong tandaan kapag
-dinadagdagan ng laman ng <i lang="en">grow box</i>.
+dinadagdagan ng laman ang <i lang="en">grow box</i>.
 
 * Ang mga pananim na kailangang ng dagdagan ngunit malapit ng anihin ay dapat
 dagdagan ng malinis na tubig.
