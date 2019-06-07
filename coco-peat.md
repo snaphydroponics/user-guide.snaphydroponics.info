@@ -3,29 +3,29 @@ layout: page
 lang: fil
 title: Gabay sa Coco Peat
 description: >
-  Alamin kung saan mabibili ang kung paano gamitin ang coco peat.
+  Alamin kung saan mabibili at kung paano gamitin ang coco peat.
 permalink: /coco-peat
 ---
 
-Ang <i lang="en">coco peat</i> na kilalarin sa tawag na <i lang="en">coco coir dust</i>,
+Ang <i lang="en">coco peat</i> na kilala rin sa tawag na <i lang="en">coco coir dust</i>,
 ay isang natural na mala-isponghang materyal na nagmula sa mga bunot ng niyog.
-Ito ay isang <i lang="en">by-product</i> ng industriya ng niyog. Isa mga marami
-nitong pinaggagamitan ay pakinabang nito nito sa hortikultura kung saan ito ay
+Ito ay isang <i lang="en">by-product</i> ng industriya ng niyog. Isa sa mga marami
+nitong pinaggagamitan ay ang pakinabang nito sa hortikultura kung saan ito ay
 ginagamit bilang pangkondisyon ng lupa o bilang isang <i lang="en">soilless growing
 medium</i>.
 
 {% include figure.html figure="coco-peat-brick" %}
 
-Ang mga ito ay karaniwang mabibili sa mga <i lang="en">gardren</i> o <i lang="en">
+Ang mga ito ay karaniwang mabibili sa mga <i lang="en">garden</i> o <i lang="en">
 agri-vet centers</i> kung saan sila ay itinitinda bilang tuyong pulbos na nasa
 supot o kaya ay tuyo at siksik na bloke o <i lang="en">bricks</i>. Dahil sila ay
-dumaan sa pagpoproseso ang nakasupot na <i lang="en">coco peat</i> at
+dumaan sa pagpoproseso, ang nakasupot na <i lang="en">coco peat</i> at
 <i lang="en">coco peat blocks</i> o <i lang="en"> coco peat bricks</i> ay karaniwang
 <i lang="en">sterile</i>.
 
 {% include figure.html figure="coco-coir-dust" %}
 
-Ang coco peat ay mabibi din bilang materyales na hindi pa napoproseso na binebenta
+Ang coco peat ay mabibili din bilang materyales na hindi pa napoproseso na binebenta
 ng bultuhan. Di tulad ng naprosesong <i lang="en">coco peat</i>, ang mga ito ay
 maaring kontaminado ng mikrobyo at dagta na parehong nakasasama sa paglaki ng
 halaman.

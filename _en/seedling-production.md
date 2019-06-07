@@ -22,7 +22,7 @@ Properties of good seeds are listed below:
 ### High Viability
 
 Good seeds germinate well. Seeds from reliable sources often list this metric
-as the germination rate percentage. The higher the percentage the more of the
+as the germination rate percentage. The higher the percentage, the more of the
 seeds will germinate. For example, in a packet containing 1,000 seeds that list
 the germination rate as 90%, we can expect to germinate 900 seeds from the packet.
 

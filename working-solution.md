@@ -18,7 +18,7 @@ ang mga hakbang kung paano ito gawin.
 ## Maghanda ng Malinis na Tubig
 
 Magsimula sa sampung litro (10L) ng malinis na tubig. Ang mga tubig sa mga 
-regular na pinagkukunan gaya ng tubig sa gripo balon ay maaring gamitin. Ang
+regular na pinagkukunan gaya ng tubig sa gripo o balon ay maaring gamitin. Ang
 paggamit ng purong tubig ulan o purong <i lang="en">distilled water (reverse osmosis)</i>
 ay hindi nirerekomenda dahil ang purong tubig ulan at ang purong <i lang="en">
 distilled water</i> ay may <i lang="en">neutral pH</i> at ang pagtimpla ng 

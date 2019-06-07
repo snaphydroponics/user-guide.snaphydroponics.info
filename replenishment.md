@@ -17,7 +17,7 @@ bababa dahil ito ay ginagamit ng halaman upang suportahan ang kanilang paglaki.
 
 Sa inisyal na <i lang="en">set up</i>, ang ibabang mahagi ng <i lang="en">
 seedling plugs</i> ay nakatubog sa <i lang="en">working solution</i> sa lalim
-isa hanggang dalawang sentimentro (1-2cm). The <i lang="en">working solution</i>
+isa hanggang dalawang sentimentro (1-2cm). Ang <i lang="en">working solution</i>
 ay tatagos sa mga hiwa at papasok sa baso at babasain ng lubos ang <i lang="en">
 growing medium</i>. Dahil dito, ang mga binhi ay lalaki ng nakababad sa tubig.
 

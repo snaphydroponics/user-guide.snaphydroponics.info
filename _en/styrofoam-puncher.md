@@ -29,7 +29,7 @@ the styro cup, fit them to the can itself as demonstrated in the picture below.
 
 The use of tin cans with ribbing along the side is recommended. The ribbing
 adds lateral stiffness of the can and allows it to hold its circular structure
-even when the lip of the cut has been cut off to sharpen the cutting edge.
+even when the lip of the can has been cut off to sharpen the cutting edge.
 
 
 ### Bamboo Sticks

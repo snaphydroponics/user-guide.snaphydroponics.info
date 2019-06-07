@@ -14,7 +14,7 @@ Ang sistema ng SNAP <i lang="en">Hydroponics</i> ay gumagamit ng
 <i lang="en">grow box</i> upang paglamnan ng <i lang="en">nutrient solution</i>
 at ilagay sa lugar ang mga <i lang="en">seedling plugs</i>. Isa sa mga hakbang
 sa paggawa ng mga <i lang="en">grow box</i> ay ang paglalagay ng butas sa itaas
-na parte ng <i lang="en">styrobox</i> kung saan isusoksok ang mga <i lang="en">
+na parte ng <i lang="en">styrobox</i> kung saan isusuksok ang mga <i lang="en">
 seedling plugs</i>. Isa sa mga paraan upang gawin ito ay gamit ang sariling
 gawang gamit na yari sa bakanteng lata.
 
@@ -23,13 +23,13 @@ gawang gamit na yari sa bakanteng lata.
 ### Bakanteng Lata
 
 Lata na may tatlong pulgadang <i lang="en">diameter</i>. Ang mga ito ay pangkaraniwan
-dahil sala ay ginagawa alinsunod sa mga pamantayang laki. Upang matiyak kung ang
+dahil sila ay ginagawa alinsunod sa mga pamantayang laki. Upang matiyak kung ang
 butas na magagawa ng lata ay mapagkakasya ang <i lang="en">styro cup</i>, isuksok
 sila sa lata mismo gaya ng makikita sa baba.
 
 {% include figure.html figure="tin-can-styro-cup-fit" %}
 
-Ang paggamit ng lata na may <i lang="en">ribbing</i> ay nirerecomenda. Ang
+Ang paggamit ng lata na may <i lang="en">ribbing</i> ay nirerekomenda. Ang
 <i lang="en">ribbing</i> ay nagpapatibay sa lata at binibigyang lakas itong
 mapanatili ang bilog nitong hugis kahit na ang labi nito ay putulin upang palalasin
 ang dulo ng pambutas.
@@ -40,7 +40,7 @@ Pares ng kawayang patpat o ibang materyales na sapat ang tibay upang magsilbing
 hawakan para sa gamit. Para sa kawayang patpat, nirerekomenda na gumawa ng 
 pares nito sa pamamagitan ng paghati ng isang pirasong may kalahating pulgadang
 kapal upang gumawa ng isang pares na isang kapat na pulgada ang kapal. Gawin
-ito sa pamamagitan ng paghati sa patpat na nakayon sa himaymay. Dapat ito ay
+ito sa pamamagitan ng paghati sa patpat na nakaayon sa himaymay. Dapat ito ay
 may sapat na haba upang tumahak sa <i lang="en">diameter</i> ng lata at may
 tatlong pulgadang nakalampas sa tigkabilang tabi ng lata. Siguraduhing makinis
 ang mga gilid at mga putol na dulo ng mga patpat na kawayan upang alisin ang 
@@ -86,14 +86,14 @@ kumpletong buksan ang isang dulo ng lata ay kailangan din.
 Magsimula sa pamamagitan ng pagbukas ng isang dulo ng lata gamit ang pambukas ng
 lata.
 
-Gamit nag kutsilyo o itak, gumawa ng hugis “T” na hiwa sa isang tabi ng lata
+Gamit ang kutsilyo o itak, gumawa ng hugis “T” na hiwa sa isang tabi ng lata
 malapit sa saradong dulo ng lata. Ang hugis “T” na ito ay maggagarantiya na ang
 butas ay mananatiling nakagitna kahit na ito ay palakihin gamit ang maliit na
 patpat na may matulis na dulo.
 
 {% include figure.html figure="t-shaped-cut" %}
 
-Sa pamamagitan ng gamit na yari sa kawayan, pakalihin ang hugis “T”  na hiwa upang
+Sa pamamagitan ng gamit na yari sa kawayan, palakihin ang hugis “T”  na hiwa upang
 makagawa ng mas malaking butas. Maaring gumamit ng kahit anong kasangkapan na may
 tamang laki upang pukpukin ang gamit patagos sa lata.
 
@@ -115,8 +115,8 @@ ang tali o lastiko.
 
 Pinakahuli, kung nanaisin, ang talim ng kasangkapang ito ay maaring mapatalas sa
 pamamagitan ng pagupit ng labi ng lata sa bukas na dulo nito. Bagamat ang hakbang
-na ito ay maaring gawin bago ang ibang mga hakbang, nimumunkahi na kahulihan
+na ito ay maaring gawin bago ang ibang mga hakbang, nimumungkahi na kahulihan
 itong gawin dahil ang ginupit na gilid ay talagang matalim. Sapat ang talas nito
 upang makahiwa ng balat. Ang ibang mga hakbang na gagawin sa lata ay magkakaroon
-ng panganib na mabigyan ang isang tao ang hiwa kung ang mga ito ay gagawin na
-naalis na labi ng lata at mayroon nag matalas na gilid.
+ng panganib na mabigyan ang isang tao ng hiwa kung ang mga ito ay gagawin na
+naalis na labi ng lata at mayroon nang matalas na gilid.

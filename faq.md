@@ -3,7 +3,7 @@ layout: page
 lang: fil
 title: Mga Madalas na Tanong
 description: >
-  Sa pahinang matatagpuan ang ilan sa mga pinaka madalas na tanong tungkol sa
+  Sa pahinang ito matatagpuan ang ilan sa mga pinaka madalas na tanong tungkol sa
   SNAP Hydroponics
 permalink: /faq
 ---
@@ -33,7 +33,7 @@ B naman ay malinaw at medyo madilaw.
 
 {% include figure.html figure="snap-a-and-b" %}
 
-## Saan mabibi ang <i lang="en">SNAP Nutrient Solution for Hydroponics</i>?
+## Saan mabibili ang <i lang="en">SNAP Nutrient Solution for Hydroponics</i>?
 
 Ang mga ito ay mabibili sa Institute of Plant Breding (IPB) at sa mga
 [<i lang="en">SNAP Authorized Resellers</i>]({{ site.baseurl }}/authorized-resellers).
@@ -55,7 +55,7 @@ imported</i> na ubas. May mga [karagdang impormasyon tungkol sa mga
 
 ## Ano ang maari kong gawin sa natitirang <i lang="en">solution</i> matapos anihin ang mga pananim?
 
-Maari itong gamiting pandilig sa mga regular na nakapasong halaman. Ito may naglalaman
+Maari itong gamiting pandilig sa mga regular na nakapasong halaman. Ito ay naglalaman
 pa ng kaunting sustansiya na makakapagpataba ng mga halaman.
 
 ## Ano ang nilalaman ng <i lang="en">SNAP Nutrient Solution for Hydroponics</i> A at B?
@@ -70,7 +70,7 @@ Ang mga ito ay ang araw ng pagkakagawa ng <i lang="en">SNAP solution</i> o ang
 
 ## Lumilipas ba ang <i lang="en">SNAP Nutrient Solution for Hydroponics</i>?
 
-Hanggat ang mga ito ay mahigpit ang pagkakatakip at nakalagay sa malimig at
+Hanggat ang mga ito ay mahigpit ang pagkakatakip at nakalagay sa malamig at
 tuyong lugar, ang mga ito ay hindi lilipas.
 
 

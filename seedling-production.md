@@ -11,7 +11,7 @@ permalink: /seedling-production
 
 {% include figure.html figure="lettuce-seedlings" %}
 
-Isa sa mga pinaka-importanteng kadahilan na nagdedetermina ng masaganang ani sa
+Isa sa mga pinaka-importanteng dahilan na nagdedetermina ng masaganang ani sa
 ilalim ng angkop na kondisyon ay ang mga buto at ang mga binhing pinalaki mula
 sa mga ito.
 
@@ -25,18 +25,18 @@ mga buto ay nakalista sa baba:
 
 Ang mga mainam na buto ay sumisibol ng maayos. Ang mga buto sa mga maasahang
 mapagkukunan ay malimit sinusulat ang sukatan na ito bilang <i lang="en">germination
-rate percentage</i>. Mas mataas ang ponsyento, mas maraming buto ang sisibol.
+rate percentage</i>. Mas mataas ang porsyento, mas maraming buto ang sisibol.
 Halimbawa, ang pakete na naglalaman ng isang libong (1,000) buto, at ang nakasulat
 na <i lang="en">germination rate</i> ay 90%, umasa na 900 na buto mula sa pakete
 ang uusbong.
 
-Bukod pa sa ponsiyentong nakasulat sa pakete ng mga buto, ang <i lang="en">germination
+Bukod pa sa porsiyentong nakasulat sa pakete ng mga buto, ang <i lang="en">germination
 rates</i> ay maari ring madetermina sa pamamagitan ng <i lang="en">germination test</i>
-at ng <i lang="en">floatation test</i>.
+at ng <i lang="en">flotation test</i>.
 
 Ginagawa ang <i lang="en">germination test</i> sa pamamagitan ng pagpapasibol ng
 bilang na <i lang="en">sample</i> mula sa koleksiyon ng mga buto at pagdetermina
-ng posiyento ng buto na aktuwal na sumibol.
+ng porsiyento ng buto na aktuwal na sumibol.
 
 Malimit, ang mga butong sumisibol ay lumulubog sa tubig. Ang pagpapalitaw ay 
 nagsisilbing paraan upang paghiwalayin ang mga butong sisibol at mga butong
@@ -62,10 +62,10 @@ bubot, basag, bansot, tuyo, may sakit at pinamumugarang mga buto.
 
 Ang mainam na mga buto ay galing sa mga halaman na pinalahi upang mapreserba
 ang mga kanais-nais na katangian para sa isang partikular na pananim. Ang mga
-buto na may mataas na <i lang="en">genetic purity</i> maasahang laging ipapakita
+buto na may mataas na <i lang="en">genetic purity</i> ay maasahang laging ipapakita
 ang mga katangiang ito.
 
-### Tamang <i lang="en">Moisture Content</i> para sa Pag-Iimbak
+### Tamang <i lang="en">Moisture Content</i> para sa Pag-imbak
 
 Ang mainam na mga buto ay hindi masyadong basa na maari silang tubuan ng mga
 <i lang="en">pathogens</i> at hindi sila masyadong tuyo na ang mga buto ay
@@ -99,8 +99,8 @@ ay angkop dito.
 dalawa hanggang tatlong sentimetro ang kapal (2-3 cm). Dasikin at pantayin ang
 <i lang="en">growing medium</i></li>
 
-<li>Ibodbod ang mga maliit na buto ng manipis at pantay-pantay. Kung gaano karami
-ay nakadepende kung ilan ang kakailanganin. Isaalang-alang na maglaan ng karagdagang
+<li>Ibudbod ang mga maliit na buto ng manipis at pantay-pantay. Kung gaano karami
+ay nakadepende kung ilan ang kakailanganin. Maglaan ng karagdagang
 mga buto na mga labinglimang porsyento (15%) ng dami ng kakailanganin upang masagot
 ang <i lang="en">germination rate</i> at iba pang mga sanhi na maaring ikabawas
 ng mga binhi.</li>

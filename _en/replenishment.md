@@ -42,7 +42,7 @@ important to regularly check the working solution level and **never let it dry u
 
 {% include figure.html figure="replenishment-4" ext="png" %}
 
-To replenish the working solution add fresh working solution or plain water
+To replenish the working solution, add fresh working solution or plain water
 (details below) to increase the working solution level so that it is just below
 the bottoms of the seedling plugs. **DO NOT** return the working solution level to
 its initial level because this will very likely submerge a majority of the 
@@ -52,7 +52,7 @@ aerial roots and cause the plants to wilt and eventually kill them.
 
 Leafy vegetables generally reaches marketable size by around three to four weeks
 after transplant and normally doesn't require replenishment. In cases that they
-must be kept beyond a month or if the working solution level has gone down faster
+must be kept beyond a month, or if the working solution level has gone down faster
 than normal (specially in the summer months) and the working solution level must
 be replenished, they should be replenished with plain water. This is because the
 working solution still has enough nutrients to fuel the plant’s growth.

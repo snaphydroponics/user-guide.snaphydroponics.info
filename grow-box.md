@@ -9,7 +9,7 @@ permalink: /grow-box
 
 {% include figure.html figure="grow-box" %}
 
-Ang mga <i lang="en">grow boxes</i> o <i lang="en">growing boxes</i> mahalagang
+Ang mga <i lang="en">grow boxes</i> o <i lang="en">growing boxes</i> ay mahalagang
 bahagi ng sistema ng SNAP <i lang="en">Hydroponics</i>. Ang <i lang="en">grow box</i>
 ay nagsisilbing lalagyan para sa SNAP
 [<i lang="en">working solution</i>]({{ site.baseurl}}/working-solution).
@@ -36,7 +36,7 @@ sa styrobox]({{ site.baseurl }}/styrobox).
 ### <i lang="en">Lining Material</i>
 
 Ang mga <i lang="en">styrofoam</i> boxes ay may mga <i lang="en">ventilation holes</i>
-sa gilid. Upang makapapaglaman ng <i lang="en">nutrient solution</i> ang ibabang
+sa gilid. Upang makapaglaman ng <i lang="en">nutrient solution</i> ang ibabang
 bahagi ng kahon, kailangan itong sapinan ng matibay na <i lang="en">waterproofing
 sheet</i>. Sa gabay na ito <i lang="en">20 ✕ 30 inch polyethylene (PE) plastic bags</i>
 ang gagamitin.
@@ -69,8 +69,8 @@ na alisin ang piraso ng <i lang="en">styrofoam</i> mula sa pambutas ng
 
 ## Ihanda ang <i lang="en">Styrobox</i>
 
-Bagamat ang mga <i lang="en">styrofoam</i> na kahon ng ubas ay magkakasingsukat
-ang paraan kung paano nagkakabit ang kaninlang ibaba at itaas na bahagi ay
+Bagamat ang mga <i lang="en">styrofoam</i> na kahon ng ubas ay magkakasingsukat,
+ang paraan kung paano nagkakabit ang kanilang ibaba at itaas na bahagi ay
 magkakaiba depende sa gumagawa at pagmamarka ng gumagawa. Nangangahulugang hindi
 magtutugma ang itaas at ibabang bahagi ng styrobox kung hindi sila magkaparehong
 uri.
@@ -94,7 +94,7 @@ magkasira ang patungan habang nagbubutas ng <i lang="en">styrofoam</i> gamit ang
 pambutas.
 
 Gumuhit ng linyang gabay na nagdudugsong sa mga <i lang="en">ventilation holes</i>
-sa magkatapat na gilid ng kahon kaya na pinapakita sa baba. Gagawa ng butas kung
+sa magkatapat na gilid ng kahon gaya na pinapakita sa baba. Gumawa ng butas kung
 saan nagkukrus ang mga linya.
 
 {% include figure.html figure="guide-lines" %}
@@ -118,7 +118,7 @@ Ulitin ang prosesong ito upang gawin ang natitira pang mga butas.
 Mariing minumungkahi na gamitin ang <i lang="en">packing tape</i> upang takpan
 ang mga <i lang="en">ventilation holes</i> sa bahaging ito ng grow box kung ang
 lugar na paglalagyan nito ay walang protkesiyon sa mga lamok. Mapipigilan nitong
-makapasok ang mga lamok sa <i lang="en">grow box</i> at makapagngitlog sa
+makapasok ang mga lamok sa <i lang="en">grow box</i> at makapangitlog sa
 <i lang="en">working solution</i>.
 
 {% include figure.html figure="upper-grow-box-sealed-with-packing-tape" %}
@@ -126,12 +126,12 @@ makapasok ang mga lamok sa <i lang="en">grow box</i> at makapagngitlog sa
 
 ## Gawin ang Ibabang Bahagi ng <i lang="en">Grow Box</i>
 
-Masimula sa paghahanda ng mga piraso ng <i lang="en">tape</i> na mga tatlong
+Magsimula sa paghahanda ng mga piraso ng <i lang="en">tape</i> na mga tatlong
 pulgada ang haba. Iposisyon ang <i lang="en">20 ✕ 30 plastic liner</i> gaya ng
 pinapakita sa baba. Dahil ang box ay may sukat na 20" ✕ 16", ang <i lang="en">
 plastic liner</i> ay lalampas sa haba ng kahon ng limang pulgada sa tigkabilang
-dulo at lalampas sa lapad ng kahon ng apat na pugada sa tigkabilang panig. Ang
-mga sukat na ito ang pagpapadali ng pagposisyon ng <i lang="en">plastic liner</i>
+dulo at lalampas sa lapad ng kahon ng apat na pulgada sa tigkabilang panig. Ang
+mga sukat na ito ang magpapadali ng pagposisyon ng <i lang="en">plastic liner</i>
 sa gitna ng ibabang bahagi ng <i lang="en">grow box</i>.
 
 {% include figure.html figure="plastic-liner-over-lower-grow-box" %}
@@ -159,7 +159,7 @@ gilid.
 
 {% include figure.html figure="plastic-liner-with-corner-taped" %}
 
-Ulitin para na natitirang mga kanto.
+Ulitin para sa natitirang mga kanto.
 
 {% include figure.html figure="plastic-liner-with-all-corners-taped" %}
 
@@ -170,7 +170,7 @@ tatsulok na tiklop sa mga kanto.
 
 {% include figure.html figure="plastic-liner-end-positioned" %}
 
-Sa mamamagitan ng kaagapay o kamit ang sipit upang hawakan ang plastik sa posisyon,
+Sa mamamagitan ng kaagapay o gamit ang sipit upang hawakan ang plastik sa posisyon,
 lagyan ng tape ang mga kanto at ang gitna. Pansinin na ang plastik ay lampas sa
 taas ng tabi ng <i lang="en">grow box</i> sa lapad nito at ang plastic ay lalampas
 sa gilid ng <i lang="en">styrobox</i> kapag ito ay nilagyan ng <i lang="tape">tape</i>.
@@ -186,11 +186,8 @@ Buo na ang <i lang="en">grow box</i>.
 Ang itaas na bahagi ng <i lang="en">styrobox</i> ay may mga pangkalso na nagkakabit
 nito sa ibabaw ng ibabang bahagi. Kapag ang mga <i lang="en">grow boxes</i> ay
 nagsisikan, ang kalsong ito ay nagiging sagabal sa pagbukas ng <i lang="en">grow box</i>
-upang siyasatin ang loob. Maari 
-The upper half of the styrobox has tabs that locks it in place on top of the
-lower half. When the grow boxes are packed close together this locking mechanism
-can make it difficult for you to open the grow box to examine what’s inside.
-Maari silang opsyonal na alisin sa pagputol sa kanila gamit ang <i lang="en">box cutter</i>.
+upang siyasatin ang loob. Maari silang opsyonal na alisin sa pagputol sa kanila
+gamit ang <i lang="en">box cutter</i>.
 
 {% include figure.html figure="locking-tabs" %}
 

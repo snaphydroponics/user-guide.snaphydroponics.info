@@ -10,7 +10,7 @@ permalink: /training-seminar
 
 Ang Institute of Plant Breeding (IPB) ay may maiksing kursong pagsasanay na may
 pamagat na <i lang="en">“Training on Hydroponics Vegetable Production with Emphasis on SNAP
-Hydroponics.”</i> Ang mga kalahok na nakatapos ng making kursong pagsasanay na ito
+Hydroponics.”</i> Ang mga kalahok na nakatapos ng maikling kursong pagsasanay na ito
 ay ginagawaran ng sertipiko ng pagkumpleto.
 
 ## Deskripsyon
@@ -39,7 +39,7 @@ sa pagsasanay at mga miryenda.
 
 ## Pagpapalista
 
-Upang magpalista piliin ang “Hydroponics Vegetable Production with Emphasis on
+Upang magpalista, piliin ang “Hydroponics Vegetable Production with Emphasis on
 SNAP Hydroponics” sa <i lang="en">online registration form</i>.
 
 <a class="btn btn-primary btn-block"

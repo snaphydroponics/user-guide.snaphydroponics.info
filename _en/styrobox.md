@@ -14,7 +14,7 @@ size recommended for use in SNAP Hydroponics measures 20 ✕ 16 ✕ 6 inches. St
 boxes of these sizes are used to transport imported grapes from the United States
 and come from two manufacturers: Styrotek LLC and Aptco. LLC. They also come
 in different designs which means that one has to remember that although their
-sizes are similar their upper and lower halves are does not fit upper and lower
+sizes are similar their upper and lower halves does not fit with the upper and lower
 halves of other designs.
 
 There is also a seasonal influx of styrofoam boxes for imported grapes. They are

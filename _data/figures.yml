@@ -163,7 +163,7 @@ seed-flotation-test:
   height: 960
   alt:
     en: A tub of water with seeds in it. Some are seeds float. Some seeds sink.
-    fil: Lagagyan ng tubig na may mga buto. May ilan na lumulutang sa tubig. May ilan din na lumulobog.
+    fil: Lagagyan ng tubig na may mga buto. May ilan na lumulutang sa tubig. May ilan din na lumulubog.
   caption:
     en: Seed flotation test. Viable seeds sink and bad seeds float.
     fil: Pagpapalitaw. Ang mga butong sisibol ang lumulobog at ang mga butong patay ay lumulutang.
@@ -206,7 +206,7 @@ lettuce-seedlings-and-seeds:
     fil: Lalagyan na may lumaking binhi at isapang lalagyan na may kakapunla lang na buto ng letsugas.
   caption:
     en: "Left: Seedlings ready for prickling; right: Seeds recently sown."
-    fil: "Kaliwa: Mga binhi na handa ng ipunla; kanan: Mga butong kakapunla lamang."
+    fil: "Kaliwa: Mga binhi na handa nang ipunla; kanan: Mga butong kapupunla lamang."
 
 styrofoam-punchers:
   width: 1280
@@ -456,7 +456,7 @@ replenishment-1:
     fil: "Ilustrasyon: ang mga ibabang bahagi ng seedling plugs ay nakatubog sa working solution. Wala pang ugat na nalabas."
   caption: 
     en: Initially, the bottom of the seedling plugs is immersed in the working solution by about 1–2 cm.
-    fil: Sa simula, ang ibabang bahagi ng seeling plugs ay nakatubog sa working solution na may lalim na 1-2cm.
+    fil: Sa simula, ang ibabang bahagi ng seedling plugs ay nakatubog sa working solution na may lalim na 1-2cm.
 
 replenishment-2:
   width: 1280
@@ -483,10 +483,10 @@ replenishment-4:
   height: 720
   alt:
     en: "An illustration: more roots have grown out of the seedling plug and the working solution level is now very low."
-    fil: "Ilustrasyon: mas marami pang ugat ang tubugo papalabas ng seeling plug at ang lebel ng working solution ay napakababa na ngayon."
+    fil: "Ilustrasyon: mas marami pang ugat ang tubugo papalabas ng seedling plug at ang lebel ng working solution ay napakababa na ngayon."
   caption: 
     en: The working level is low and needs replenishment.
-    fil: Ang lebel nag working solution ay mababa na at kailangan nang dagdagan.
+    fil: Ang lebel ng working solution ay mababa na at kailangan nang dagdagan.
 
 replenishment-5:
   width: 1280
