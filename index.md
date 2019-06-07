@@ -59,7 +59,7 @@ ikalunod ng mga supling.
 
 Pinakamainam na itabi ang takip dahil maari itong gamitin para panatilihin ang
 halumigmig at makatulong sa pag-usbong ng mga buto. Kung balak itong gamitin gaya
-ng nabaggit, lagyan din ito ng butas upang hayaang lumabas ang hangin at hayaan
+ng nabanggit, lagyan din ito ng butas upang hayaang lumabas ang hangin at hayaan
 itong umikot.
 
 
@@ -94,8 +94,8 @@ ang kapal.</li>
 
 <li>Dasigin at pantayin ang <i lang="en">coco peat</i>.</li>
 
-<li markdown="1">Ibudbod ang mga buto ang manipis at patay-pantay sa ibabaw ng <i lang="en">
-coco peat</i>. Bilang batayan, a maliit na kurot ng maliliit na buto (letsugas
+<li markdown="1">Ibudbod ang mga buto ng manipis at pantay-pantay sa ibabaw ng <i lang="en">
+coco peat</i>. Bilang batayan, ang maliit na kurot ng maliliit na buto (letsugas
 bilang halibawa) ay katumbas ng dalawampu (20) hanggang limampung (50) piraso
 ng buto. Mangyaring isaalang-alang ang <i lang="en">germination rate</i> ng mga
 buto na malimit ay nakasulat sa pakete ng buto.  
@@ -331,7 +331,7 @@ sa ilalim ng silungan.
 
 ### Silungan
 
-<i lang="en">Green house</i>, <i lang="en">rain shelter</i> o <i lang="en">awning</i>
+<i lang="en">Green house</i>, <i lang="en">rain shelter</i> o <i lang="en">awning</i>{' '}
 ng bubong na nakaharap sa silangan para sa pinakamaaga at pinakamatagal na sikat
 ng araw.
 
@@ -344,7 +344,7 @@ bawat isa ay pantay at ang bawat isa ay nakakatanggap ng sapat na sikat ng araw
 upang suportahan ang paglaki ng mga halaman.
 </li>
 
-<li>Lagyan ang bawat isang grow box sampung litrong (10L) tubig.
+<li>Lagyan ang bawat isang grow box ng sampung litrong (10L) tubig.
 
 {% include figure.html figure="adding-water" %}</li>
 

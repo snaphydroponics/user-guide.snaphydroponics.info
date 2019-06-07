@@ -97,7 +97,7 @@ is usually indicated in the seed packets.
 <li>Water liberally. How long the seed will take to germinate is usually indicated
 on the sowing instructions printed on the seed packet. There are a number of
 factors that can affect how long the seeds will take to germinate and the
-germination rate. Depending on the freshness of the seeds first signs of
+germination rate. Depending on the freshness of the seeds, first signs of
 germination usually appear within the next twenty-four (24) to seventy-two (72)
 hours with most of the seeds germinating one (1) to two (2) weeks.</li>
 
@@ -138,7 +138,7 @@ plastic bags.
 
 ### Styrofoam Puncher
   
-A styroform puncher is required to make holes on the upper half of the grow box
+A styrofoam puncher is required to make holes on the upper half of the grow box
 for the [seedling plugs](#prepare-seedling-plugs). A tin can of the appropriate diameter
 for the seedling plug can be made into such a tool.
 
@@ -208,7 +208,7 @@ This guide uses eight ounce (8oz.) styrofoam cups pictured below.
 
 ### Small Hand Saw or Similar
 
-This is used this to cut slits at the bottom of the styro cups.
+This is used to cut slits at the bottom of the styro cups.
 
 ### Established Seedlings
 
@@ -221,13 +221,13 @@ uses coco peat.
 
 ### Plastic Spoon, BBQ Stick or Similar Implements
 
-This is used to uproot seedlings from the sowing tray. This is also used to digging
+This is used to uproot seedlings from the sowing tray. This is also used as digging
 implement when transferring the seedlings to the seedling plugs.
 
 ### Procedure
 
 <ol>
-<li>Using a handsaw make four (4) to six (6) vertical slits on the side of the cup
+<li>Using a handsaw, make four (4) to six (6) vertical slits on the side of the cup
 starting from the bottom. It should run two-thirds (2/3) along the side of the cup
 and about one-third (1/3) the radius of the bottom of the cup.
 
