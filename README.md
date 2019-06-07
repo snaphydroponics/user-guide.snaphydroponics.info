@@ -1,7 +1,7 @@
 # SNAP Hydroponics User Guide
 
-This is a user guide for SNAP Hydroponics build with Jekyll and powered by GitHub
-Pages. It aims to be a comprehensive and easy to follow user guide on how to
-grow plants using SNAP Hydroponics and made available both in English and Filipino.
+An online user guide for SNAP Hydroponics.
 
-https://user-guide.snaphydroponics.info
+SNAP Hydroponic Users Guide by snaphydroponics.info.
+The source code is licensed MIT. The website content is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
