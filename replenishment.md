@@ -21,13 +21,13 @@ isa hanggang dalawang sentimentro (1-2cm). Ang <i lang="en">working solution</i>
 ay tatagos sa mga hiwa at papasok sa baso at babasain ng lubos ang <i lang="en">
 growing medium</i>. Dahil dito, ang mga binhi ay lalaki ng nakababad sa tubig.
 
-{% include figure.html figure="replenishment-1" ext="png" %}
+{% include figure.html figure="replenishment-1" %}
 
 Upang mabuhay habang nakababad sa tubig, ang mga halaman ay magpapatubo ng
 <i lang="en">aerial roots</i>. Ang mga ugat na ito ay hindi buong na kalubog
 sa tubig at nakalantad sa basang hangin na nasa loob ng <i lang="en">grow box</i>.
 
-{% include figure.html figure="replenishment-2" ext="png" %}
+{% include figure.html figure="replenishment-2" %}
 
 Habang lumalaki ang halaman, mas maraming mga ugat ang tutubo at pupunta sa 
 <i lang="en">working solution</i>. Dahil sa <i lang="en">evaporation</i> at
@@ -39,13 +39,13 @@ working solution</i> dahil tumubo at lumaki na ang mga ugat, dumaan sa mga hiwa
 palabas ng mga baso at papunta sa working solution. Lalong bibilis ang pagka-ubos
 ng <i lang="en">working solution</i> habang lalong lumalaki ang mga halaman.
 
-{% include figure.html figure="replenishment-3" ext="png" %}
+{% include figure.html figure="replenishment-3" %}
 
 Habang tuluyan pang lumalaki ang mga halaman, mas marami pang <i lang="en">solution
 </i> ang magagamit. Importante na regular na sinisilip ang lebel ng <i lang="en">
 working solution</i> at **huwag itong hayaang tuluyang maubos**.
 
-{% include figure.html figure="replenishment-4" ext="png" %}
+{% include figure.html figure="replenishment-4" %}
 
 Para i-<i lang="en">replenish</i> ang working solution, dagdagan ito ng bagong
 <i lang="en">working solution</i> o malinis na tubig (nasa baba ang mga detalye)
@@ -56,7 +56,7 @@ malamang na ilulubog nito ang malaking bahagi ng mga <i lang="en">aerial roots</
 na magiging sanhi ng pagkalanta ng mga halaman at sa kinalaunan ay ikakamatay ng
 mga ito.
 
-{% include figure.html figure="replenishment-5" ext="png" %}
+{% include figure.html figure="replenishment-5" %}
 
 Kalimitang nararating ng mga madadahong mga gulay ang laking maari na silang
 anihin sa loob ng tatlo hanggang apat na linggo matapos silang i-<i lang="en">

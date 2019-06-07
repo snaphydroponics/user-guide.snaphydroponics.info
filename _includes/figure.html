@@ -1,8 +1,7 @@
 {% assign figure = site.data.figures[include.figure] %}
-{% assign ext = include.ext | default: "jpg" %}
 
 <figure class="figure">
-  <img src="{{ site.baseurl }}/assets/images/{{ include.figure }}.{{ext}}"
+  <img src="{{ site.baseurl }}/assets/images/{{ include.figure }}.webp"
        width="{{ figure.width }}" height="{{ figure.height }}" 
                                   class="figure-img img-fluid"
                                   alt="{{ figure.alt[page.lang] }}">
