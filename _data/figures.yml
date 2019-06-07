@@ -1,6 +1,6 @@
 suitable-snap-location:
-  width: 400
-  height: 133
+  width: 1280
+  height: 427
   alt:
     en: Grow boxes with plants growing, sitting on benches and located in a sunny area.
     fil: Mga grow boxes na may lumalaking halaman, nakalagay sa mga patungan, at nasa maaraw na lugar.
@@ -9,8 +9,8 @@ suitable-snap-location:
     fil: Isang angkop na lugar para sa pagpapatubo gamit ang SNAP Hydroponics.
 
 sowing-tray:
-  width: 400
-  height: 267
+  width: 1280
+  height: 853
   alt: 
     en: A microwavable tub with holes at the bottom and on the lid.
     fil: Microwavable na tub na may mga butas sa ilalim.
@@ -429,8 +429,8 @@ measuring-cup:
     fil: Punuin ang ganitong klaseng cup sa lebel na may tanda para sa 25mL.
 
 snap-a-and-b:
-  width: 400
-  height: 400
+  width: 1280
+  height: 1280
   alt:
     en: A pair of 500mL PET bottles containing SNAP A and SNAP B.
     fil: Pares ng 500mL PET bottles na naglalaman ng SNAP at SNAP B.
