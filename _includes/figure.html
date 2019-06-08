@@ -2,10 +2,14 @@
 {% assign ext = include.ext | default: "jpg" %}
 
 <figure class="figure">
-  <img src="{{ site.baseurl }}/assets/images/{{ include.figure }}.{{ext}}"
-       width="{{ figure.width }}" height="{{ figure.height }}" 
-                                  class="figure-img img-fluid"
-                                  alt="{{ figure.alt[page.lang] }}">
+  <picture>
+    <source srcset="{{ site.baseurl }}/assets/images/{{ include.figure }}.webp" type="image/webp">
+    <source srcset="{{ site.baseurl }}/assets/images/{{ include.figure }}.{{ext}}" type="image/{{ext}}">
+    <img src="{{ site.baseurl }}/assets/images/{{ include.figure }}.{{ext}}"
+         width="{{ figure.width }}" height="{{ figure.height }}" 
+                                    class="figure-img img-fluid"
+                                    alt="{{ figure.alt[page.lang] }}">
+  </picture>
   {% if figure.caption %}
   <figcaption class="figure-caption">{{ figure.caption[page.lang] }}</figcaption>
   {% endif %}
